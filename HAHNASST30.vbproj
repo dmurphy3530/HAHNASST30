@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{451DD3C6-8D02-4035-98B2-23C79A758AEB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HAHNASST30.My.MyApplication</StartupObject>
+    <RootNamespace>HAHNASST30</RootNamespace>
+    <AssemblyName>HAHNASST30</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>3.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>HAHNASST30.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HAHNASST30.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Text</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9220293627BEBDB3599C5292D9E2536F650A5DBA</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>HAHN30VBDev_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>HAHNASST.ICO</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="HAHNASST30" />
+    <Import Include="HAHNASST30.My" />
+    <Import Include="HAHNASST30.My.Resources" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.Designer.vb">
+      <DependentUpon>About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoWeightSeverity.Designer.vb">
+      <DependentUpon>AutoWeightSeverity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AutoWeightSeverity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoWeightType.Designer.vb">
+      <DependentUpon>AutoWeightType.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AutoWeightType.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DispRem.Designer.vb">
+      <DependentUpon>DispRem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DispRem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Find.Designer.vb">
+      <DependentUpon>Find.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Find.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindAll.Designer.vb">
+      <DependentUpon>FindAll.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FindAll.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GridSearch.Designer.vb">
+      <DependentUpon>GridSearch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GridSearch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="OneSymp.Designer.vb">
+      <DependentUpon>OneSymp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="OneSymp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrescRem.Designer.vb">
+      <DependentUpon>PrescRem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrescRem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintSelections.Designer.vb">
+      <DependentUpon>PrintSelections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PrintSelections.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questionnaire.Designer.vb">
+      <DependentUpon>Questionnaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Questionnaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QuestProgress.Designer.vb">
+      <DependentUpon>QuestProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QuestProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelRem.Designer.vb">
+      <DependentUpon>SelRem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelRem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetAutowt.Designer.vb">
+      <DependentUpon>SetAutowt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetAutowt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetPref.Designer.vb">
+      <DependentUpon>SetPref.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SetPref.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoWeightSeverity.resx">
+      <DependentUpon>AutoWeightSeverity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AutoWeightType.resx">
+      <DependentUpon>AutoWeightType.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DispRem.resx">
+      <DependentUpon>DispRem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Find.resx">
+      <DependentUpon>Find.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindAll.resx">
+      <DependentUpon>FindAll.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridSearch.resx">
+      <DependentUpon>GridSearch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OneSymp.resx">
+      <DependentUpon>OneSymp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrescRem.resx">
+      <DependentUpon>PrescRem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintSelections.resx">
+      <DependentUpon>PrintSelections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questionnaire.resx">
+      <DependentUpon>Questionnaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuestProgress.resx">
+      <DependentUpon>QuestProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelRem.resx">
+      <DependentUpon>SelRem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetAutowt.resx">
+      <DependentUpon>SetAutowt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetPref.resx">
+      <DependentUpon>SetPref.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.manifest" />
+    <None Include="HAHNASST30_TemporaryKey.pfx" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Drawing1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HAHNASST.ICO" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

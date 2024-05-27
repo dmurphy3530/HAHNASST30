@@ -1,0 +1,2446 @@
+ABIS CAN, Abis Canadensis-Pinus Canadensis, Hemlock Spruce\1
+1   ,30  ,30  ,123 ,123 
+ABIES NIG, Abies Nigra, Black Spruce\2
+2   ,33  ,33  ,137 ,137 
+ABRO, Abrotanum, Southernwood\3
+3   ,70  ,70  ,282 ,282 
+ABSIN, Absinthium, Common Wormwood\4
+4   ,48  ,48  ,210 ,210 
+ACAL, Acalypha Indica, Indian Nettle\5
+5   ,23  ,23  ,93  ,93  
+ACET, Acetanilidum, Antifebrinum\6
+6   ,15  ,15  ,62  ,62  
+ACET, Acetic Acid, Glacial Acetic Acid\7
+7   ,88  ,88  ,358 ,358 
+ACHY, Achyranthus\8
+8   ,4   ,6   ,24  ,16  
+ACONITINE, Aconitine\9
+9   ,6   ,6   ,26  ,26  
+ACON-C, Aconitum Cammarum\10
+10  ,3   ,3   ,12  ,12  
+ACON FER, Aconitum Ferox, Indian Aconite\11
+11  ,8   ,11  ,44  ,32  
+ACON LYC., Aconitum Lycotonum, Great Yellow Wolfsbane\12
+12  ,6   ,6   ,24  ,24  
+ACON NAP., Aconitum Napellus, Monkshood*\13
+13  ,294 ,294 ,1245,1245
+ACON HYMN, Eranthis Hymnalis, Winter Aconite\14
+14  ,3   ,3   ,12  ,12  
+ACON-L, Acon. Lycotonum\15
+15  ,3   ,3   ,12  ,12  
+ACTEA, Actea Spincata, Baneberry\16
+16  ,38  ,39  ,159 ,155 
+ACIR, Actes Racemosa, Black Cohosh*\17
+17  ,3   ,3   ,18  ,18  
+ADONIS, Adonis Vernalis, Pheasant's Eye\18
+18  ,38  ,45  ,180 ,152 
+ADREN, Adrenalin, An Internal Secretion of Suprarenal Glands\19
+19  ,28  ,28  ,111 ,111 
+AESC, Aesculus Hippocastanum, Horse Chestnut*\20
+20  ,100 ,100 ,399 ,399 
+AETH-M, Aethiops Mercurialis-Mineralis, Sulph, and Quicksilver, or Black Sulphide Mercury\21
+21  ,8   ,8   ,32  ,32  
+AETHUSA, Aethusa Cynaphium, Fool's Parsley\22
+22  ,105 ,105 ,448 ,448 
+AGARICIN, Agaricin, active constituent of Polyporus Officinale\23
+23  ,3   ,3   ,12  ,12  
+AGAR EMET, Agaricus Emetic\24
+24  ,8   ,8   ,33  ,33  
+AGAR, Agaricus Mascarius--Amanita, Toad Stool--Bug Agaric\25
+25  ,149 ,150 ,617 ,613 
+AGARIC PHALLOIDES, Agaricus Phalloides\26
+26  ,4   ,4   ,16  ,16  
+AGAVE, Agave Americana, Century Plant\27
+27  ,8   ,8   ,34  ,34  
+AGN-C, Agnus Castus, Chaste Tree*\28
+28  ,47  ,47  ,206 ,206 
+AGRAPHIS, Agraphis Nutans, Bluebell\29
+29  ,10  ,10  ,39  ,39  
+AGRIMONIA, Agrimonia, Cockleburr\30
+30  ,5   ,5   ,20  ,20  
+AGROSTEMA, Agrostema Githago, Corn-Coccle\31
+31  ,11  ,15  ,60  ,44  
+AILAN, Ailanthus Glandulosa, Chinese Sumach\32
+32  ,55  ,55  ,225 ,225 
+ALETRIS, Aletris Farinosa, Stargrass\33
+33  ,25  ,25  ,112 ,112 
+ALF, Alfalfa, Medicago Sativa; California Clover or Lucerne\34
+34  ,40  ,40  ,170 ,170 
+ALI-C, Allium Cepa, Red Onion*\35
+35  ,93  ,93  ,378 ,378 
+ALLIUM SAT, Allium Sativum, Garlic\36
+36  ,33  ,34  ,137 ,132 
+ALNUS, Alnus, Red Alder\37
+37  ,16  ,16  ,64  ,64  
+ALOE, Aloe Socotrina, Socotrine Aloes*\38
+38  ,101 ,101 ,410 ,410 
+ALSTONIA, Alstonia Scholaris, Dita Bark\39
+39  ,18  ,18  ,72  ,72  
+ALTHAA, Althaa, Marshmallow\40
+40  ,3   ,3   ,12  ,12  
+ALUMEN, Alumen, Common Potash Alum\41
+41  ,54  ,55  ,220 ,216 
+ALUM, Alumina, Pure Clay (oxide of aluminum - argilla)*\42
+42  ,158 ,158 ,647 ,647 
+ALUMINA SIL., Alumina Silicata, Andalasite rock - Alumina 63, Silica 37 parts\43
+43  ,41  ,41  ,162 ,162 
+AMBRA, Ambra Greisea, Ambergis - a morbid secretion of the whale*\44
+44  ,78  ,78  ,357 ,357 
+AMBROSIA, Ambrosia, Rag Weed\45
+45  ,16  ,16  ,64  ,64  
+AMMONIACUM-DOREMA, Ammoniacum-Dorema, Gum Ammoniac\46
+46  ,18  ,18  ,72  ,72  
+AMMONIUM BEN, Ammonium Benzoicum, Benzoate of Ammonia\47
+47  ,14  ,14  ,56  ,56  
+AMMONIUM BROM, Ammonium Bromatum, Bromide of Ammonia\48
+48  ,25  ,25  ,102 ,102 
+AMMONIUM CARB, Ammonium Carb, Carbonate of Ammonia\49
+49  ,112 ,112 ,455 ,455 
+AMMONIUM CAUSTICUM, Ammonium Causticum, Hydrate of Ammonia - Ammonia Water\50
+50  ,21  ,21  ,84  ,84  
+AMMONIUM FORMALDEHYDE, Ammonium Formaldehyde, Cystogen\51
+51  ,2   ,2   ,8   ,8   
+AMMONIUM JODATUM, Ammonium Jodatum, Iodide of Ammonia\52
+52  ,9   ,9   ,35  ,35  
+AMMONIUM MURIATICUM, Ammonium Muriaticum, Sal Ammoniac \53
+53  ,92  ,92  ,372 ,372 
+AMMONIUM PHOS., Ammonium Phosphoricum, Phosphate of Ammonia\54
+54  ,13  ,13  ,51  ,51  
+AMMONIUM PIC., Ammonium Picratum, Picrate of Ammonia\55
+55  ,8   ,8   ,32  ,32  
+AMMONIUM VAL., Ammonium Valerianicum, Valerianate of Ammonia\56
+56  ,12  ,14  ,62  ,52  
+AMMON VANAD, Ammonium Vanadium\57
+57  ,1   ,1   ,4   ,4   
+AMPELOPSIS, Ampelopsis, Virginia Creeper\58
+58  ,12  ,12  ,48  ,48  
+AMPELOPSIS TRIFOLIA, Ampelopsis Trifolia, Three-Leaf Woodbane\59
+59  ,1   ,1   ,4   ,4   
+AMPHISBANA, Amphisbana, Snail-like lizard\60
+60  ,5   ,7   ,28  ,20  
+AMYGDALUS PER., Amygdalus Persica, Peach Tree\61
+61  ,11  ,11  ,44  ,44  
+AMYL NIT., Amyl Nitrosum, Amyl Nitrite\62
+62  ,34  ,34  ,141 ,141 
+ANACARDIUM, Anacardium, Marking Nut*\63
+63  ,105 ,105 ,461 ,461 
+ANAGALLIS, Anagallis, Scarlet Pimpernel\64
+64  ,21  ,21  ,88  ,88  
+ANAGYRIS, Anagyris\65
+65  ,2   ,2   ,8   ,8   
+ANATHERUM, Anatherum, Cuscus - An East Indian Grass\66
+66  ,29  ,29  ,116 ,116 
+ANBALON, Anbalon\67
+67  ,1   ,1   ,4   ,4   
+ANDROSACE, Androsace Lactea\68
+68  ,2   ,2   ,8   ,8   
+ANEMOPSIS, Anemopsis Californica, Yerba Mansa - Household Herb [Piper moth]\69
+69  ,15  ,15  ,60  ,60  
+ANGELICA, Angelica\70
+70  ,6   ,7   ,34  ,28  
+ANGOPHORA, Angophora, Red Gum\71
+71  ,4   ,4   ,16  ,16  
+ANGUSTURA, Angustura Vera, Bark of Galipea Cusparia\72
+72  ,35  ,36  ,142 ,138 
+ANHALONIUM, Anhalonium, Mescal Button\73
+73  ,22  ,22  ,104 ,104 
+ANILINUM, Anilinum, Coal Tar Product - Amidonbenzene\74
+74  ,6   ,6   ,24  ,24  
+ANTHEMIS, Anthemis Nobilis, Roman Chamomile\75
+75  ,14  ,14  ,57  ,57  
+ANTHOXANTUM, Anthoxantum, Sweet Vernal Grass\76
+76  ,2   ,2   ,8   ,8   
+ANTHRACINUM, Anthracinum, Anthrax Poison\77
+77  ,25  ,26  ,104 ,100 
+ANTHRAKOKALI, Anthrakokali, Anthracite Coal Dissolved in Boiling Caustic Potash\78
+78  ,15  ,15  ,60  ,60  
+ANT-A, Antimonium Arsenicosum, Arsenite of Antimony\79
+79  ,8   ,8   ,32  ,32  
+ANTIMON. CHLORIDUM, Antimonium Chloridum, Butter of Antimony\80
+80  ,5   ,5   ,20  ,20  
+ANT-C, Antimonium Crudum, Antimony Sulfide (black)*\81
+81  ,169 ,169 ,703 ,703 
+ANT-J, Antimonium Jodat\82
+82  ,12  ,12  ,50  ,50  
+ANT-S, Antimonium Sulphuratum Auratum, Golden Sulpheret of Antimony\83
+83  ,19  ,19  ,76  ,76  
+ANT-T, Antimonium Tartaricum, Tartar Emetic (Tartrate of Antimony and Potash)*\84
+84  ,108 ,108 ,441 ,441 
+ANTIPYRINE, Antipyrine, Phenazone - A Coal-tar Derivative\85
+85  ,63  ,63  ,257 ,257 
+APIS, Apis Mellifica, Honey Bee Poison*\86
+86  ,202 ,202 ,843 ,843 
+APIUM GRAV., Apium Graveolens, Common Celery\87
+87  ,37  ,37  ,149 ,149 
+APOCYNUM ANDR., Apocynum Androsaemifolium, Dogbane\88
+88  ,13  ,13  ,52  ,52  
+APOC, Apocynum Cannabinum, Indian Hemp*\89
+89  ,58  ,58  ,242 ,242 
+APOM, Apomorphinum, Alkaloid from Decomposition of Morphine by Hodrochloric Acid*\90
+90  ,13  ,20  ,81  ,53  
+AQUA CAL., Aqua Calcar, Lime-water\91
+91  ,4   ,4   ,16  ,16  
+AQUA MARINA, Aqua Marina, Isotonic Plasma\92
+92  ,17  ,20  ,83  ,70  
+AQUILEGIA, Aquilegia, Columbine\93
+93  ,8   ,8   ,38  ,38  
+ARAGALLUS, Aragallus Lamberti, White Loco Weed - Rattle Weed\94
+94  ,31  ,33  ,150 ,138 
+ARALIA, Aralia Racemosa, American Spikenard\95
+95  ,16  ,16  ,63  ,63  
+ARANEA DIADEMA, Arenea Diadema, Papal-Cross Spider\96
+96  ,37  ,37  ,148 ,148 
+ARANEA SCIENTICA, Aranea Scientica, Grey Spider\97
+97  ,3   ,3   ,13  ,13  
+ARBUTIN, Arbutin, a Crystallized Glucoside of Uva\98
+98  ,0   ,0   ,0   ,0   
+ARBUTUS, Arbutus Andrachne, Strawberry Tree\99
+99  ,6   ,6   ,24  ,24  
+ARCTOSPHYLOS MANZANITA, Arctosphylos Manzanita\100
+100 ,4   ,4   ,16  ,16  
+ARECA, Areca, Betel Nut\101
+101 ,2   ,2   ,8   ,8   
+ARGEMONE, Argemone Mexicana, Prickly Poppy\102
+102 ,20  ,20  ,79  ,79  
+ARG-C, Argentium Cyanatum, Silver Cyanide\103
+103 ,5   ,5   ,20  ,20  
+ARG-M, Argentum Metallicum, Silver\104
+104 ,68  ,70  ,284 ,276 
+ARG-N, Argentium Nitricum, Silver Nitrate*\105
+105 ,158 ,161 ,683 ,671 
+ARG-O, Argentium Oxyd., Silver Oxide\106
+106 ,1   ,1   ,4   ,4   
+ARG-P, Argentium Phosph., Silver Phosphate\107
+107 ,1   ,1   ,4   ,4   
+ARIST-C, Aristolochia Clematitis, The Birthwort*\108
+108 ,21  ,21  ,87  ,87  
+ARIST-M, Aristolochia Milhomens, Brazilian Snake Root\109
+109 ,9   ,9   ,36  ,36  
+ARIST-S, Aristolochia Serpentaria, Virginia Snake Root\110
+110 ,7   ,7   ,28  ,28  
+ARN, Arnica Montana, Leopard's Bane (Mountain Daisy)*\111
+111 ,202 ,202 ,834 ,834 
+ARS AGRIMONIA, Arsenic Agrimonia\112
+112 ,1   ,1   ,4   ,4   
+ARS, Arsenicum Album, Arsenic Oxide (white) (Arsenious Acid)*\113
+113 ,371 ,371 ,1563,1563
+ARS-B, Arsenicum Bromatum, Bromide of Arsenic\114
+114 ,9   ,10  ,40  ,36  
+ARS-H, Arsenicum Hydrogenisatum, Arseniuretted Hydrogen\115
+115 ,22  ,22  ,92  ,92  
+ARS-I, Arsenicum Iodatum, Arsenic Iodide*\116
+116 ,84  ,86  ,340 ,336 
+ARS-M, Arsenicum Metallicum, Metallic Arsenic\117
+117 ,21  ,23  ,98  ,91  
+ARSENICUM STIBIATUM, Arsenicum Stibiatum\118
+118 ,6   ,6   ,28  ,28  
+ARS-SULF, Arsenicum Sulfuratum Flavum - Arsenic Trisulph, Yellow Sulphuret of Arsenic.  Orpiment\119
+119 ,8   ,8   ,32  ,32  
+ARSENIC SULPH. RUB., Arsenic Sulfuratum Rub.\120
+120 ,8   ,8   ,32  ,32  
+ARSYNAL, Arsynal, Disodium Methylarsenate\121
+121 ,4   ,5   ,21  ,17  
+ART-V, Artemisia Vulgaris, Mugwort\122
+122 ,14  ,16  ,61  ,57  
+ARUM-D, Arum Dracontium, Green Dragon\123
+123 ,16  ,16  ,64  ,64  
+ARUM-I, Arum Italicum\124
+124 ,1   ,1   ,4   ,4   
+ARUM-M, Arum Maculatum\125
+125 ,2   ,2   ,8   ,8   
+ARUM-T, Arum Triphyllum, Indian Turnip (Jack-in-the-Pulpit)*\126
+126 ,50  ,53  ,212 ,200 
+ARUNDO, Arundo, Reed\127
+127 ,45  ,48  ,196 ,184 
+ARUNDO DONAX, Arundo Donax\128
+128 ,2   ,2   ,8   ,8   
+ASAFAT, Asafat.\129
+129 ,2   ,2   ,8   ,8   
+ASAFOETIDA, Asafoetida, Gum of the Stinkasand\130
+130 ,51  ,59  ,236 ,207 
+ASARUM-C, Asarum Canadensa, Wild Ginger\131
+131 ,2   ,2   ,8   ,8   
+ASARUM-E, Asarum Europum, European Snake-root\132
+132 ,54  ,54  ,221 ,221 
+ASCLEPIAS-I, Asclepias Incarnata, Swamp Milk Weed\133
+133 ,2   ,2   ,8   ,8   
+ASCLEPIAS-S, Asclepias Syriaca (Cornuti), Silkweed\134
+134 ,10  ,10  ,40  ,40  
+ASCLEPIAS-T, Asclepias Tuberosa, Pleurisy-root\135
+135 ,23  ,25  ,100 ,92  
+ASIMINA, Asimina Triloba, American Papaw\136
+136 ,15  ,15  ,62  ,62  
+ASPARAGUS, Asparagus Officinalis, Common Garden Asparagus\137
+137 ,21  ,25  ,100 ,84  
+ASPERULA, Asperula, Nacent Oxygen - Distilled water charged with the gas\138
+138 ,3   ,3   ,12  ,12  
+ASPIDIUM, Aspidium Albamanticum, Panna\139
+139 ,1   ,1   ,4   ,4   
+ASPIDOSPERMA, Aspidosperma, Quebracho\140
+140 ,6   ,8   ,32  ,24  
+ASTERIAS, Asterias Rubens, Red Starfish\141
+141 ,49  ,51  ,211 ,203 
+ASTRAGALUS, Astragalus Mollissimus, Purple or Wolly Loco-weed\142
+142 ,13  ,13  ,52  ,52  
+ATRIPLEX, Atriplex\143
+143 ,8   ,8   ,35  ,35  
+ATROPIA, Atropia, Alkaloid of Belladonna\144
+144 ,15  ,15  ,59  ,59  
+AURANTIUM, Aurantium-Orange\145
+145 ,3   ,3   ,12  ,12  
+AUR-A, Aurum Ars.\146
+146 ,5   ,5   ,19  ,19  
+AUR-B, Aurum Brom.\147
+147 ,4   ,4   ,18  ,18  
+AUR-I, Aurum Iodide\148
+148 ,9   ,9   ,36  ,36  
+AUR, Aurum Metallicum, Gold*\149
+149 ,140 ,143 ,618 ,607 
+AUR MUR, Aurum Mur.\150
+150 ,22  ,24  ,96  ,88  
+AUR MUR KALI, Aurum Mur Kali, Double chloride of Potassium and gold\151
+151 ,1   ,1   ,4   ,4   
+AURUM MURIATICUM, Aurum Muriaticum Natronatom, Sodium Chloroaurate\152
+152 ,21  ,30  ,116 ,82  
+AUR-S, Aurum Sulph\153
+153 ,6   ,6   ,24  ,24  
+AVENA, Avena Sativa, Common Oat\154
+154 ,24  ,27  ,114 ,102 
+AVIARE, Aviare, Tuberculin from Birds\155
+155 ,9   ,10  ,40  ,36  
+AZADIR, Azadirachta Indica, Margosa Bark\156
+156 ,18  ,20  ,82  ,74  
+BACIL, Bacillium, Tubercular Sputum (A Maceration of a Typical Tuberculous Lung)*\157
+157 ,28  ,30  ,121 ,113 
+BADIAGA, Badiaga, Fresh-water Sponge\158
+158 ,45  ,45  ,179 ,179 
+BAJA, Baja, an East Indian drug\159
+159 ,2   ,5   ,8   ,8   
+BALSAMUM-P, Balsamum Peruvianum, Peruvian Balsam from Myroxylon Pereirae\160
+160 ,14  ,14  ,56  ,56  
+BALSAMUM-T, Balsamum Tolutanum, the Balsam of My Roxylon Toluifera\161
+161 ,1   ,1   ,4   ,4   
+BANGARUS FASCIATUS, Bangarus Fasciatus, Banded Krait\162
+162 ,2   ,2   ,8   ,8   
+BAPT-C, Baptisia Confusia\163
+163 ,1   ,1   ,4   ,4   
+BAPT-T, Baptisia Tinctoria, Wild Indigo*\164
+164 ,107 ,111 ,465 ,449 
+BAROSMA, Barosma Crenata, Buchu\165
+165 ,4   ,4   ,16  ,16  
+BAR-A, Baryta Acetica, Acetate of Barium\166
+166 ,9   ,9   ,42  ,42  
+BAR-C, Baryta Carbonica, Barium Carbonate*\167
+167 ,119 ,123 ,502 ,498 
+BAR-I, Baryta Iodata, Iodide of Barium\168
+168 ,4   ,4   ,16  ,16  
+BAR-M, Baryta Muriatica, Barium Chloride\169
+169 ,44  ,49  ,185 ,181 
+BELL, Belladonna, Deadly Nightshade*\170
+170 ,352 ,375 ,1571,1476
+BEL-P, Bellis Perennis, English Daisy*\171
+171 ,57  ,64  ,256 ,228 
+BENZ, Benzenum, Coal Naphtha (Benzol, C6, H6)\172
+172 ,33  ,39  ,162 ,138 
+BENZIN., Benzin, Petroleum Ether\173
+173 ,11  ,11  ,44  ,44  
+BENZIN-D, Benzin Dinitricum, D. N. B.\174
+174 ,5   ,6   ,24  ,20  
+BENZIN-N, Benzin. Nitricum. Mirbane\175
+175 ,20  ,20  ,82  ,82  
+BENZOICUM, Benzoicum Acidum, Benzoic Acid\176
+176 ,75  ,81  ,323 ,299 
+BERBERIS-A, Berberis Aquifolium-Mahonia, Mountain Grape\177
+177 ,27  ,27  ,108 ,108 
+BERB VULG, Berberis Vulgaris, Barberry*\178
+178 ,88  ,101 ,408 ,364 
+BETA VUL, Beta Vulgaris, Beet-root\179
+179 ,4   ,5   ,18  ,15  
+BETONICA, Betonica, Betony Wood\180
+180 ,12  ,12  ,50  ,50  
+BISMUTHUM, Bismuthum, Precipitated Sub-Nitrate of Bismuth \181
+181 ,45  ,46  ,191 ,187 
+BIXA ORELLANA, Bixa Orellana\182
+182 ,3   ,3   ,12  ,12  
+BLACK GUNPOWDER, Black Gunpowder\183
+183 ,6   ,6   ,23  ,23  
+BLAT-A, Blatta Americana, Cockroach\184
+184 ,6   ,6   ,24  ,24  
+BLAT, Blatta Orientalis, Indian cockroach*\185
+185 ,7   ,11  ,44  ,28  
+BOLDO, Boldoa Fragrans\186
+186 ,8   ,8   ,32  ,32  
+BOLETUS, Boletus Laricis - Polyporus Officinale, White Agaric\187
+187 ,13  ,13  ,52  ,52  
+BOLETUS-L, Boletus Lurides\188
+188 ,2   ,2   ,8   ,8   
+BOLETUS-S, Boletus Satanus\189
+189 ,5   ,5   ,20  ,20  
+BOMBYX, Bombyx, Caterpillar\190
+190 ,1   ,1   ,4   ,4   
+BORICUM, Boricum Acidum, Boracic Acid\191
+191 ,11  ,11  ,44  ,44  
+BORX, Borax, Biborate of Soda*\192
+192 ,107 ,110 ,453 ,440 
+BOTHROPS, Bothrops Lanciolatus - Lachesis Lanciolatus, Yellow Viper\193
+193 ,34  ,34  ,137 ,137 
+BOTULINUM, Botulinum, Toxin of Bacillus Botulinum\194
+194 ,12  ,12  ,48  ,48  
+BOVISTA, Bovista, Puff-Ball\195
+195 ,66  ,72  ,293 ,269 
+BRACHYGLOTTIS, Brachyglottis, Puka-Puka\196
+196 ,13  ,16  ,64  ,52  
+BRASSICA NUPUS, Brassica Nupus, Rape-Seed\197
+197 ,6   ,6   ,24  ,24  
+BROM, Bromium, Bromine*\198
+198 ,78  ,86  ,343 ,315 
+BRUCEA, Brucea., Bark of Nux Vomica or Angustura Falsa.\199
+199 ,6   ,6   ,24  ,24  
+BRY, Bryonia Alba, Wild Hop*\200
+200 ,246 ,246 ,1018,1018
+BUFO, Bufo Rana, Poison of the Toad*\201
+201 ,69  ,71  ,304 ,296 
+BUTYRIC AC, Butyric Acid, A Volatile Acid Obtained Chiefly from Butter\202
+202 ,23  ,23  ,100 ,100 
+CACT, Cactus Grandiflorus - Selenicereus Spinulosus, Night-blooming Cereus*\203
+203 ,87  ,90  ,376 ,364 
+CADM-B, Cadmium Brom.\204
+204 ,2   ,2   ,8   ,8   
+CADM-J, Cadmium Jodat.\205
+205 ,5   ,5   ,20  ,20  
+CADM, Cadmium Metallicum, Cadmium (the element)*\206
+206 ,1   ,1   ,4   ,4   
+CADM-S, Cadmium Sulph, Cadmic Sulfate\207
+207 ,67  ,75  ,296 ,268 
+CAFFEIN, Caffein, Caffeine\208
+208 ,7   ,7   ,28  ,28  
+CAHINCA, Cahinca, Brazilian Plant - Chiococca\209
+209 ,10  ,13  ,52  ,40  
+CAJUPUTUM, Cajuputum (Oleum Wittnebianum), Cajuput Oil\210
+210 ,17  ,17  ,70  ,70  
+CALADIUM SEG., Caladium Seguinum, American Arum\211
+211 ,35  ,42  ,174 ,146 
+CAL-AC, Calcarea Acetica, Acetate of Lime\212
+212 ,9   ,12  ,48  ,36  
+CAL-AR, Calcarea Arsenica, Arsenite of Lime\213
+213 ,37  ,37  ,163 ,163 
+CAL-B, Calcarea Brom.\214
+214 ,3   ,3   ,11  ,11  
+CAL-CAL, Calcarea Calcinate, Calcined Oyster-shell\215
+215 ,1   ,1   ,4   ,4   
+CAL-C, Calcarea Carbonica - Ostrearum, Calcium Carbonate*\216
+216 ,248 ,248 ,1004,1004
+CALC-CAUS, Calcarea Caust.\217
+217 ,4   ,4   ,16  ,16  
+CALC-F, Calcarea Fluorata, Flour Spar (calcium flouride)*\218
+218 ,110 ,110 ,449 ,449 
+CALC-H, Calcarea Hypophosporosa\219
+219 ,14  ,14  ,56  ,56  
+CALC-I, Calcarea Iodata, Iodide of Lime\220
+220 ,19  ,22  ,88  ,76  
+CALC-L, Calcarea Lactic\221
+221 ,4   ,4   ,16  ,16  
+CALC-LAC, Calcarea Lacto-Phosph\222
+222 ,2   ,2   ,8   ,8   
+CALC-M, Calcarea Mur - Calcium Chloratum, Rademacher's Liquor\223
+223 ,8   ,8   ,32  ,32  
+CALC-OS, Calcarea Ostrearum, Oyster Shell*\224
+224 ,52  ,52  ,233 ,233 
+CALC-OV, Calcarea Ovorum - Ova Tosta, Toasted egg-shells\225
+225 ,4   ,4   ,16  ,16  
+CALC-O, Calcarea Oxal.\226
+226 ,1   ,1   ,4   ,4   
+CALC-P, Calcarea Phosphorica, Calcium Phosphate*\227
+227 ,91  ,99  ,408 ,377 
+CALC-PIC, Calcarea Picricum\228
+228 ,1   ,1   ,4   ,4   
+CALC-PIR, Calcarea Pirata\229
+229 ,5   ,6   ,24  ,20  
+CALC-R, Calcarea Renalis, Lapis Renalis\230
+230 ,3   ,3   ,12  ,12  
+CALC-SIL, Calcarea Silicata, Silicate of Lime\231
+231 ,29  ,30  ,118 ,118 
+CALC-S, Calcarea Sulphurica, Calcium Sulphate (Sulphate of Lime - Plaster of Paris)*\232
+232 ,53  ,53  ,210 ,210 
+CALEN, Calendula Officinalis, Marigold*\233
+233 ,59  ,68  ,273 ,237 
+CALOTROPIS, Calotropis or Madura Album, Madar Bark\234
+234 ,11  ,13  ,52  ,44  
+CALTHA, Caltha Palustris, Cowslip\235
+235 ,13  ,13  ,52  ,52  
+CAMPH, Camphora, Camphor*\236
+236 ,76  ,82  ,324 ,300 
+CAMPH-AC, Camphoric Acid\237
+237 ,3   ,3   ,12  ,12  
+CAMPHORA MON., Camphora Mono-Bromata, Mono-Bromide of Camphor\238
+238 ,11  ,14  ,67  ,49  
+CANCH, Canchalagua, Erythrea Venusta - Centaury\239
+239 ,15  ,16  ,64  ,60  
+CAN-I, Cannabis Indica, Hashish\240
+240 ,77  ,77  ,328 ,328 
+CAN-S, Cannabis Sativa, Hemp*\241
+241 ,50  ,53  ,218 ,206 
+CANTH, Cantharides, Spanish Flies*\242
+242 ,118 ,118 ,487 ,487 
+CANTHARIDIN, Cantharidin\243
+243 ,1   ,1   ,4   ,4   
+CAPPARIS CORIACCEA, Capparis Coriaccea\244
+244 ,4   ,4   ,16  ,16  
+CAPS, Capsicum, Cayenne Pepper*\245
+245 ,84  ,85  ,355 ,351 
+CARB-AN, Carbo Animalis, Animal Charcoal*\246
+246 ,67  ,71  ,290 ,273 
+CARB-T, Carbon Tetrachlorid\247
+247 ,2   ,3   ,12  ,8   
+CARB-V, Carbo Vegetabilis, Vegetable Charcoal*\248
+248 ,180 ,180 ,732 ,732 
+CARBOLICUM AC, Carbolicum Acidum, Phenol - Carbolic Acid\249
+249 ,56  ,63  ,255 ,227 
+CARBONEUM, Carboneum, Lampblack\250
+250 ,2   ,2   ,8   ,8   
+CARBONEUM HYDR, Carboneum Hydrogenisatum, Carburetted Hydrogen\251
+251 ,9   ,9   ,40  ,40  
+CARBONEUM OXY, Carboneum Oxygenisatum, Carbonous Oxide\252
+252 ,24  ,27  ,116 ,101 
+CARBONEUM SULPH, Carboneum Sulphuratum, Alcohol Sulphuris - Bisulphide of Carbon\253
+253 ,60  ,65  ,278 ,260 
+CARDUUS BEN, Carduus Benedictus\254
+254 ,0   ,0   ,0   ,0   
+CARDUUS, Carduus Marianus, St. Mary's Thistle\255
+255 ,48  ,48  ,199 ,199 
+CARLSBAD, Carlsbad, The Waters of the Sprudel Springs\256
+256 ,26  ,30  ,121 ,105 
+CASCARA SAG., Cascara Sagrada - Rhamnus Purshiana, Sacred Bark\257
+257 ,10  ,10  ,40  ,40  
+CASCARILLA, Cascarilla, Sweet Bark\258
+258 ,12  ,13  ,53  ,49  
+CARCINOSIN, Carcinosin, A Nosode from Carcinoma\259
+259 ,5   ,6   ,24  ,20  
+CASTANEA, Castanea Vesca, Chestnut Leaves\260
+260 ,7   ,8   ,30  ,30  
+CASTOR EQUI, Castor Equi, Rudimentary Thumb-nail of the Horse\261
+261 ,9   ,11  ,44  ,36  
+CASTOREUM, Castoreum, The Beaver\262
+262 ,14  ,16  ,70  ,60  
+CATARIA, Cataria Nepeta, Catnip\263
+263 ,7   ,8   ,34  ,30  
+CAUL, Caulophyllum, Blue Cohosh*\264
+264 ,31  ,33  ,135 ,127 
+CAUS, Causticum, Hahnemann's Tinctura Acris Sine Kali (Potassium Hydrate)*\265
+265 ,113 ,117 ,476 ,460 
+CEANOTHUS, Ceanothus, New Jersey Tea\266
+266 ,19  ,21  ,82  ,74  
+CEANTHUS THRY, Ceanthus Thrysiflorus, California Lilac\267
+267 ,4   ,4   ,16  ,16  
+CEDR, Cedron-Simaruba Ferroginea, Simaba Cedron Seeds (Rattlesnake Bean)*\268
+268 ,25  ,28  ,115 ,103 
+CENCHRIS, Cenchris Contortrix - Ancistrodon, Copperhead Snake\269
+269 ,19  ,19  ,87  ,87  
+CENTAUREA, Centaurea\270
+270 ,3   ,3   ,14  ,14  
+CENTRARIA, Centraria, Iceland Moss\271
+271 ,5   ,5   ,20  ,20  
+CEPHALANTHUS, Cephalanthus, Button Bush\272
+272 ,4   ,4   ,18  ,18  
+CEREFOLIUS, Cerefolius\273
+273 ,3   ,3   ,12  ,12  
+CEREUS, Cereus Bonplandii, A Night-Blooming Cereus\274
+274 ,13  ,13  ,54  ,54  
+CEREUS SERP., Cereus Serpentinus\275
+275 ,7   ,7   ,34  ,34  
+CERIUM, Cerium Oxalicum, Oxalate of Cerium\276
+276 ,7   ,7   ,28  ,28  
+CHAM, Chamomilla, German Chamonile*\277
+277 ,151 ,177 ,765 ,641 
+CHAPARRO, Chaparro Amargoso, Goat-bush\278
+278 ,4   ,5   ,20  ,16  
+CHAULMOOGRA, Chaulmoogra, Taraktogenos\279
+279 ,2   ,2   ,8   ,8   
+CHEIRANTHUS, Cheiranthus, Wall Flower\280
+280 ,3   ,3   ,12  ,12  
+CHELIDONIN, Chelidonin\281
+281 ,5   ,5   ,20  ,20  
+CHEL, Chelidonium Majus, Celandine*\282
+282 ,77  ,82  ,327 ,307 
+CHENOPODIUM, Chenopodium Anthelmunticum, Jerusalem Oak\283
+283 ,21  ,22  ,88  ,84  
+CHENOPODI, Chenopodi Glauci Aphis, Plant-lice from Chenopodium\284
+284 ,22  ,22  ,90  ,90  
+CHELONE, Chelone, Snakehead\285
+285 ,8   ,9   ,31  ,31  
+CHENOPODIUM, Chenopodium Vulvaria\286
+286 ,1   ,1   ,4   ,4   
+CHIM. MAC., ChimaPhilla Maculata\287
+287 ,3   ,3   ,12  ,12  
+CHIM, ChimaPhilla Umbellata, Pipsissewa*\288
+288 ,41  ,41  ,170 ,170 
+CHININUM, Chininum Arsenicosum, Arsenic of Quinine\289
+289 ,38  ,40  ,166 ,158 
+CHININ MUR, Chininum Mur\290
+290 ,3   ,3   ,12  ,12  
+CHININ SAL, Chininum Salicyl\291
+291 ,3   ,3   ,12  ,12  
+CHININ SULPH, Chininum Sulphuricum, Sulphite of Quinine\292
+292 ,37  ,40  ,160 ,148 
+CHIONANTHUS, Chionanthus, Fringe-tree\293
+293 ,28  ,33  ,134 ,114 
+CHLORALUM, Chloralum, Chloral Hydrate\294
+294 ,34  ,40  ,164 ,144 
+CHLOROFORMUM, Chloroformum, Chloroform\295
+295 ,20  ,20  ,82  ,82  
+CHLORUM, Chlorum, Chlorine Gas in Water\296
+296 ,15  ,20  ,80  ,64  
+CHOLAS TERRAPINA, Cholas Terrapina\297
+297 ,2   ,2   ,8   ,8   
+CHOLESTERINUM, Cholesterinum, Cholesterine - The Proximate Principle.  Furnished by the Epithelium Lining of Gall Bladder and the Larger Ducts\298
+298 ,7   ,7   ,28  ,28  
+CHOLINE, Choline\299
+299 ,1   ,1   ,4   ,4   
+CHOLOS TERRAPINA, Cholos Terrapina\300
+300 ,1   ,1   ,4   ,4   
+CHROMICUM AC, Chromicum Acidum, Chromic Acid\301
+301 ,19  ,19  ,76  ,76  
+CHROMICUM SULPH, Chromicum Sulphate, Chromium Sulphate\302
+302 ,8   ,8   ,32  ,32  
+CHRYSANTHEMUM LEUCANTHEMUM, Chrysanthemum Leucanthemum, Ox-Eye Daisy\303
+303 ,6   ,6   ,26  ,26  
+CHRYSAROBIN, Chrysarobinum, Goa Powder - Andira Araroba\304
+304 ,15  ,15  ,62  ,62  
+CICER ARIETINUM, Cicer Arietinum, Chick-Pea\305
+305 ,3   ,3   ,12  ,12  
+CICUTA MAC, Cicuta Maculata, Water Hemlock\306
+306 ,6   ,6   ,24  ,24  
+CICUTA VIR., Cicuta Virosa, Water Hemlock\307
+307 ,73  ,73  ,308 ,308 
+CIMIC, Cimicufuga Racemosa, Black Snakeroot*\308
+308 ,0   ,0   ,0   ,0   
+CIN-A, Cina, Worm Seed*\309
+309 ,3   ,3   ,12  ,12  
+CIMEX, Cimex-Acanthia, Bedbug\310
+310 ,18  ,18  ,74  ,74  
+CIMICIF PANAEA, Cimicif. Panaea Arvensis, Poor Man's Mercury\311
+311 ,1   ,1   ,4   ,4   
+CIMICIFUGA RACEMOSA, Cimicifuga Racemosa - (Actaea Racemosa) (Macrotys), Black Snake-root\312
+312 ,68  ,72  ,290 ,282 
+CINA, Cina, Worm Seed\313
+313 ,77  ,78  ,316 ,313 
+CHINA, Cinchona Officinalis, Peruvian Bark or Cinchona*\314
+314 ,163 ,166 ,688 ,673 
+CINERARIA, Cineraria, Dusty Miller\315
+315 ,3   ,4   ,16  ,12  
+CINNABARIS, Cinnabaris - Mercurius Sulphuratus Ruber, Mercuric Sulphide\316
+316 ,27  ,29  ,115 ,107 
+CINNAMONUM, Cinnamonum, Cinnamon\317
+317 ,18  ,18  ,72  ,72  
+CISTUS, Cistus Canadensis, Rock Rose\318
+318 ,59  ,63  ,251 ,236 
+CITRIC ACID, Citric Acid\319
+319 ,6   ,6   ,24  ,24  
+CITRUS DECUMANA, Citrus Decumana, Grape Fruit\320
+320 ,3   ,3   ,12  ,12  
+CITRUS LIMONUM, Citrus Limonum\321
+321 ,4   ,4   ,16  ,16  
+CITRUS VULGARIS, Citrus Vulgaris, Bitter Orange\322
+322 ,5   ,5   ,20  ,20  
+CLEMATIS ERECTA, Clematis Erecta, Virgin's Bower\323
+323 ,48  ,56  ,215 ,191 
+CLEMATIS VITALBA, Clematis Vitalba\324
+324 ,2   ,2   ,8   ,8   
+COBALTUM, Cobaltum, The Metal Cobalt\325
+325 ,31  ,31  ,130 ,130 
+COCA, Erythroxylon Coca, The Divine Plant of the Incas\326
+326 ,41  ,41  ,175 ,175 
+COCAINA, Cocaina, Cocaine (An Alkaloid from Erythroxylon Coca)\327
+327 ,29  ,29  ,136 ,136 
+COCCINELLA, Coccinella Septempunctata, Lady Bug\328
+328 ,19  ,19  ,78  ,78  
+COCC, Coccus Cacti, Cochineal Insect*\329
+329 ,44  ,44  ,179 ,179 
+COC-I, Cocculus, Cocculus Indicus (Indian Cockle)*\330
+330 ,114 ,117 ,502 ,491 
+COCCUS TERPIN HYDRAT, Coccus. Terpin. Hydrat.\331
+331 ,3   ,3   ,12  ,12  
+COCHLEARIA, Cochlearia Armoracia - Armoracia Sativa, Horse-Radish\332
+332 ,34  ,35  ,144 ,140 
+CODEINUM, Codeinum, Codeine (An Alkaloid from Opium)\333
+333 ,15  ,16  ,64  ,60  
+COFF, Coffea Cruda, Coffee (unroasted)*\334
+334 ,56  ,59  ,253 ,243 
+COLCHICINE, Colchicine\335
+335 ,7   ,7   ,28  ,28  
+COLCH, Colchicum Automnale, Meadow Saffron*\336
+336 ,81  ,83  ,334 ,326 
+COLLINSONIA, Collinsonia Canadensis, Stone-Root\337
+337 ,44  ,49  ,200 ,180 
+COLOC, Colocynthis, Squirting (or Bitter) Cucumber*\338
+338 ,87  ,97  ,413 ,365 
+COLOSTRUM, Colostrum\339
+339 ,3   ,3   ,12  ,12  
+COMOCLADIA, Comocladia Dentata, Guao\340
+340 ,28  ,34  ,137 ,113 
+CONCH, Conchiolinum - Mater Perlarum, Mother of Pearl\341
+341 ,3   ,3   ,12  ,12  
+CONDURANGO, Condurango, Condor Plant\342
+342 ,16  ,19  ,76  ,64  
+CON, Conium Maculatum, Poison Hemlock*\343
+343 ,113 ,125 ,526 ,480 
+CONVALLARIA, Convallaria Majalis, Lily of the valley\344
+344 ,52  ,60  ,247 ,215 
+CONVOLVULUS, Convolvulus\345
+345 ,2   ,2   ,8   ,8   
+COPAIVA, Copaiva, Balsam of Copaiva\346
+346 ,37  ,50  ,199 ,147 
+CORR, Corallium Rubrum, Red Coral*\347
+347 ,38  ,46  ,181 ,153 
+CORALLORHIZA, Corallorhiza, Crawley Root\348
+348 ,7   ,7   ,29  ,29  
+CORNUS ALTERNIFOLIA, Cornus Alternifolia, Swamp Walnut\349
+349 ,7   ,7   ,30  ,30  
+CORNUS CIRCINATA, Cornus Circinata, Round-leaved Dogwood\350
+350 ,12  ,12  ,48  ,48  
+CORNUS FLORIDA, Cornus Florida\351
+351 ,7   ,7   ,28  ,28  
+CORYDALIS, Corydalis (Dicentra Canadensis), Turkey-Pea\352
+352 ,11  ,11  ,44  ,44  
+COTO, Coto, Para-coto Bark\353
+353 ,4   ,4   ,16  ,16  
+COTYLEDON, Cotyledon, Pennywort\354
+354 ,23  ,24  ,103 ,99  
+CRATAEGUS, Crataegus, Hawthorn Berries\355
+355 ,44  ,44  ,187 ,187 
+CROC, Crocus Sativus, Saffron*\356
+356 ,58  ,59  ,250 ,246 
+CROT-CAS, Crotalus Cascavella, Brazillian Rattlesnake Venum*\357
+357 ,5   ,5   ,20  ,20  
+CROT-H, Crotalus Horridus, Rattlesnake Venum*\358
+358 ,130 ,130 ,540 ,540 
+CROTON, Croton Tiglium, Croton Oil Seed*\359
+359 ,35  ,46  ,175 ,137 
+CUBEBA, Cubeba, Cubebs\360
+360 ,12  ,12  ,48  ,48  
+CUCURBITA PEPO, Cucurbita Pepo, Pumpkin Seed\361
+361 ,4   ,4   ,16  ,16  
+CUCURBITA CITRULLUS, Cucurbita Citrullus, Seeds of Watermelon\362
+362 ,3   ,3   ,12  ,12  
+CULEX, Culex\363
+363 ,1   ,1   ,4   ,4   
+CUMARINUM, Cumarinum\364
+364 ,1   ,1   ,4   ,4   
+CUPHEA, Cuphea, Flux-Weed\365
+365 ,5   ,5   ,20  ,20  
+CUPRESSUS AUSTRALIS, Cupressus Australis\366
+366 ,4   ,4   ,16  ,16  
+CUPRESSUS LAWSONIANA, Cupressus Lawsoniana\367
+367 ,1   ,1   ,4   ,4   
+CUPRUM ACETICUM, Cuprum Aceticum, Acetate of Copper\368
+368 ,31  ,31  ,130 ,130 
+CUPRUM ARSENITUM, Cuprum Arsenitum, Arsenite of Copper - Scheele's Green\369
+369 ,44  ,44  ,178 ,178 
+CUPR, Cuprum Metallicum, Copper*\370
+370 ,80  ,89  ,354 ,326 
+CUPA, Cuprum Arsenicosum, Copper Arsenite*\371
+371 ,2   ,2   ,8   ,8   
+CUPR CYAN, Cuprum Cyanide\372
+372 ,1   ,1   ,4   ,4   
+CUPR OXY NIG, Cuprum Oxydatum Nigrum\373
+373 ,3   ,3   ,12  ,12  
+CUPR SULPH, Cuprum Sulphate\374
+374 ,4   ,4   ,16  ,16  
+CURARE, Curare-Woorari, Arrow-poison\375
+375 ,56  ,56  ,231 ,231 
+CYCL, Cyclamen Europaeum, Sow Bread*\376
+376 ,51  ,51  ,214 ,214 
+CYDONIA VUL, Cydonia Vulgaris, Quince\377
+377 ,2   ,2   ,8   ,8   
+CYNANCHUM, Cynanchum\378
+378 ,4   ,4   ,16  ,16  
+CYPRIPEDIUM, Cypripedium, Yellow Lady-s Slipper\379
+379 ,8   ,9   ,38  ,34  
+CYSTISM, Cystism, Cystine\380
+380 ,1   ,1   ,4   ,4   
+DAPHNE, Daphne Indica, Spurge Laurel\381
+381 ,20  ,20  ,86  ,86  
+DATURA ARBOREA, Datura Arborea, Bougmancia Candida\382
+382 ,6   ,6   ,26  ,26  
+DERRIS, Derris Pinnata\383
+383 ,1   ,1   ,4   ,4   
+DICTAMNUS, Dictamnus, Burning Bush\384
+384 ,5   ,5   ,20  ,20  
+DIG, Digitalis Purpurea, Foxglove*\385
+385 ,124 ,127 ,514 ,502 
+DIGITOXINUM, Digitoxinum\386
+386 ,2   ,2   ,8   ,8   
+DIOSCOREA VILLOSA, Dioscorea Villosa, Wild Yam\387
+387 ,51  ,61  ,236 ,208 
+DIOSMA LINCARIS, Diosma Lincaris, Buku - from Cape of Good Hope\388
+388 ,25  ,25  ,106 ,106 
+DIPHTHERINUM, Diphtherinum, Potentized Diphtheritic Virus\389
+389 ,13  ,15  ,60  ,52  
+DIPHTHEROTOXIN, Diphtherotixin, Cahis\390
+390 ,3   ,3   ,12  ,12  
+DIPODIUM, Dipodium Punctatum\391
+391 ,3   ,3   ,12  ,12  
+DIRCA PALUSTRIS, Dirca Palustris, Leather Wood\392
+392 ,5   ,5   ,20  ,20  
+DOLICHOS PURIENS, Dolichos Puriens-Mucuna, Cowhage\393
+393 ,17  ,21  ,82  ,70  
+DORYPHORA, Doryphora, Colorado Potato-bug\394
+394 ,10  ,10  ,40  ,40  
+DROS, Drosera Rotundfolia, Sundew*\395
+395 ,47  ,52  ,205 ,189 
+DUBOISIA, Duboisia, Corkwood Elm\396
+396 ,23  ,28  ,110 ,94  
+DULC, Dulcamara, Bittersweet or Woody Nightshade*\397
+397 ,117 ,128 ,518 ,474 
+ECHIN, Echinacea Angustifolia - Rudbeckia, Purple Coneflower*\398
+398 ,60  ,60  ,241 ,241 
+EEL SERUM, Eel Serum\399
+399 ,3   ,3   ,12  ,12  
+EGG VACCINE, Egg Vaccine for Asthma\400
+400 ,1   ,2   ,8   ,4   
+ELAIS, Elais, South American Palm\401
+401 ,5   ,5   ,20  ,20  
+ELAPS CORALLINUS, Elaps Corallinus, Coral-snake\402
+402 ,72  ,79  ,322 ,302 
+ELATERIUM, Elaterium-Ecbalium, Squirting Cucumber\403
+403 ,25  ,27  ,104 ,100 
+ELECTRICITAS, Electricitas, Sugar of Milk Saturated With the Current\404
+404 ,7   ,7   ,34  ,34  
+ELEMUY, Elemuy Gauteria\405
+405 ,3   ,3   ,12  ,12  
+EMETINE, Emetine, Principal Alkaloid of Ipecac\406
+406 ,6   ,8   ,32  ,24  
+ENOTHERA, Enothera, Evening Primrose\407
+407 ,4   ,4   ,16  ,16  
+EOSIN, Eosin\408
+408 ,6   ,6   ,24  ,24  
+EPHEDRA, Ephedra, Teamster's Tea\409
+409 ,2   ,2   ,8   ,8   
+EPIGEA, Epigea Repens, Trailing Arbutus\410
+410 ,8   ,8   ,32  ,32  
+EPILOBIUM, Epilobium, Willow Herb\411
+411 ,3   ,3   ,12  ,12  
+EPIPHEGUS, Epiphegus - Orobanche, Beechdrop\412
+412 ,12  ,13  ,48  ,48  
+EQUISETUM, Equisetum, Scouring Rush*\413
+413 ,21  ,22  ,83  ,83  
+ERECHTHITES, Erechthites, Fire-weed\414
+414 ,6   ,6   ,24  ,24  
+ERGOTIN, Ergotin\415
+415 ,6   ,6   ,24  ,24  
+ERIGERON, Erigeron - Leptilon Canadense, Fleabane\416
+416 ,12  ,12  ,49  ,49  
+ERIODICTYON, Eriodictyon, Yerba Santa\417
+417 ,19  ,19  ,76  ,76  
+ERODIUM, Erodium, Hemlock - Stork's bill\418
+418 ,2   ,2   ,8   ,8   
+ERYNGIUM, Eryngium Aquaticum, Button Snake-root\419
+419 ,16  ,16  ,64  ,64  
+ERYTHRINUS, Erythrinus, South American Red Mullet Fish\420
+420 ,4   ,4   ,16  ,16  
+ESCHSCHOLTZIA, Eschscholtzia Californica, California Poppy\421
+421 ,5   ,5   ,20  ,20  
+ESCULUS, Esculus glabra, Ohio-Buckeye Proctitis\422
+422 ,4   ,4   ,16  ,16  
+ESERIN SALICYLATE, Eserin Salicylate\423
+423 ,2   ,2   ,8   ,8   
+ESERINE, Eserine, the Alkaloid of Physostigma\424
+424 ,8   ,8   ,32  ,32  
+ESTRUS CAMELI, Estrus Cameli\425
+425 ,1   ,1   ,4   ,4   
+ETHER, Ether\426
+426 ,1   ,1   ,4   ,4   
+ETHIOPA, Ethiopa Antimonalis\427
+427 ,6   ,6   ,24  ,24  
+ETHUSA, Ethusa\428
+428 ,0   ,0   ,0   ,0   
+EUCALYPTOL, Eucalyptol\429
+429 ,0   ,0   ,0   ,0   
+EUCALYPTUS, Eucalyptus Globulus, Blue Gum-tree (Fever tree)*\430
+430 ,80  ,86  ,346 ,322 
+EUCAL-R, Eucalyptus Rostrata\431
+431 ,1   ,1   ,4   ,4   
+EUGENIA CHEKUN, Eugenia Chekun - Myrtus Chekan\432
+432 ,1   ,1   ,4   ,4   
+EUGENIA JAMBOS, Eugenia Jambos - Jambosa Vulgaris, Rose-apple\433
+433 ,11  ,11  ,46  ,46  
+EUONYMUS ATROPURPUREA, Euonymus Atropurpurea, Wahoo. Burning Bush\434
+434 ,42  ,43  ,182 ,177 
+EUONYMUS EUROPAA, Euonymus Europaa, Spindle-tree\435
+435 ,5   ,5   ,20  ,20  
+EUP AROM, Eupatorium Aromaticum, Pool-root\436
+436 ,9   ,9   ,40  ,40  
+EUP, Eupatorium Perfoliatum, Boneset or Thoroughwort*\437
+437 ,62  ,68  ,274 ,252 
+EUPATORIUM, Eupatorium Purpureum, Queen of the Meadow\438
+438 ,29  ,37  ,149 ,117 
+EUPHORBIA AMYG., Euphorbia Amygdaloides, Wood Spurge\439
+439 ,5   ,5   ,22  ,22  
+EUPHORBIA COR, Euphorbia Corollata, Large Flowering Spurge\440
+440 ,4   ,4   ,16  ,16  
+EUPHORBIA HYPER, Euphorbia Hypericifolia, Garden Spurge\441
+441 ,3   ,3   ,12  ,12  
+EUPHORBIA LATH, Euphorbia Lathyris, Gopher-Plant (Caper Spurge)\442
+442 ,40  ,42  ,169 ,161 
+EUPHORBIA MARG, Euphorbia Marginata, Snow on the Mountain\443
+443 ,2   ,2   ,8   ,8   
+EUPHORBIA PIL, Euphorbia Pilulifera, Pillbearing Spurge\444
+444 ,7   ,7   ,28  ,28  
+EUPHORBIA PROSTATA, Euphorbia Prostata\445
+445 ,3   ,6   ,24  ,12  
+EUPHORBIUM, Euphorbium, Spurge - The Resinous Juice of Euphorbia Resinifera\446
+446 ,34  ,44  ,180 ,140 
+EUPHR, Euphrasia Officinalis, Eyebright*\447
+447 ,73  ,81  ,322 ,298 
+EUPION, Eupion, Wood-tar distillation\448
+448 ,23  ,28  ,108 ,93  
+FABIANA, Fabiana Imbricata, Pichi\449
+449 ,17  ,17  ,68  ,68  
+FAGOPYRUM, Fagopyrum, Buckwheat\450
+450 ,49  ,52  ,213 ,201 
+FAGUS, Fagus - Beechnuts\451
+451 ,3   ,3   ,14  ,14  
+FASCHINA, Faschina, coloring substance used in adulteration of wine\452
+452 ,6   ,6   ,24  ,24  
+FEL TAURI, Fel Tauri, Ox-gall\453
+453 ,9   ,11  ,44  ,36  
+FERR-ACET, Ferrum Aceticum\454
+454 ,11  ,11  ,44  ,44  
+FERR-ARS, Ferrum Arsenicum\455
+455 ,8   ,8   ,32  ,32  
+FERR-BROM, Ferrum Bromatum\456
+456 ,3   ,3   ,12  ,12  
+FERR-CIT, Ferrum Citricum\457
+457 ,3   ,3   ,12  ,12  
+FERR-CYAN, Ferrum Cyanatum\458
+458 ,6   ,6   ,24  ,24  
+FERR-IOD, Ferrum Iodatum\459
+459 ,30  ,33  ,130 ,118 
+FERR-MAG, Ferrum Magneticum, Loadstone\460
+460 ,8   ,9   ,36  ,32  
+FERR-MET, Ferrum Metallicum, Iron*\461
+461 ,82  ,83  ,338 ,338 
+FERR-MUR, Ferrum Muriaticum\462
+462 ,12  ,12  ,47  ,47  
+FERR-PERNIT, Ferrum Pernitricum\463
+463 ,1   ,1   ,4   ,4   
+FER-PHOS, Ferrum Phosphaticum, Ferric Phosphate*\464
+464 ,125 ,130 ,530 ,514 
+FERR-PIC, Ferrum Picricum, Picrate of Iron\465
+465 ,27  ,28  ,112 ,108 
+FERR-PROT, Ferrum Protoxalatum\466
+466 ,1   ,1   ,4   ,4   
+FERR-PYRO, Ferrum Phrophosph\467
+467 ,2   ,2   ,8   ,8   
+FERR-SULPH, Ferrum Sulphuricum\468
+468 ,8   ,8   ,32  ,32  
+FERR-TAR, Ferrum Tartaricum\469
+469 ,2   ,2   ,8   ,8   
+FERULA GLAUCA, Ferula Glauca\470
+470 ,2   ,2   ,7   ,7   
+FICUS CAR., Ficus Carica, Fig\471
+471 ,1   ,1   ,4   ,4   
+FICS, Ficus Religiosa, Pakur or Ashwathya (from India)*\472
+472 ,16  ,22  ,90  ,66  
+FICUS VENOSA, Ficus Venosa, Pakur\473
+473 ,6   ,6   ,24  ,24  
+FILIX MAS, Filix Mas - Aspidium, Male Fern\474
+474 ,13  ,16  ,63  ,51  
+FLAC or FLUORICUM ACIDUM, Fluoric Acid, Hydrofluoric Acid*\475
+475 ,78  ,79  ,328 ,324 
+FLUOROFORM, Fluoroform\476
+476 ,1   ,1   ,4   ,4   
+FORMALIN, Formalin, Aqueous Solution (35 per cent) of Formaldehyde Gas\477
+477 ,26  ,29  ,120 ,108 
+FORMIC AC, Formic Acid\478
+478 ,17  ,17  ,68  ,68  
+FORM-R, Formica Rufa (Myrmexine), Crushed Live Ants*\479
+479 ,58  ,63  ,251 ,239 
+FRAGARIA, Fragaria, Wood-Strawberry\480
+480 ,9   ,9   ,37  ,37  
+FRANCISCEA, Franciscea, Manaca\481
+481 ,8   ,8   ,32  ,32  
+FRAXINUS AMERICANA, Fraxinus Americana, White Ash\482
+482 ,14  ,14  ,58  ,58  
+FRAXINUS EXCELSIOR, Fraxinus Excelsior, European Ash\483
+483 ,2   ,2   ,8   ,8   
+FULIGO LIGNI, Fuligo Ligni, Soot\484
+484 ,11  ,11  ,46  ,46  
+FUCUS VESICULOSUS, Fucus Vesiculosus, Sea Kelp\485
+485 ,9   ,12  ,47  ,35  
+FUCHSINA MAGENTA, Fuchsina - Magenta, A Coloring Substance Used in Adulteration of Wine\486
+486 ,9   ,10  ,40  ,36  
+GADUS MORRBUA, Gadus Morrbua, Cod\487
+487 ,4   ,4   ,16  ,16  
+GALANTHUS NIVALIS, Galanthus Nivalis, Snow-drop\488
+488 ,9   ,10  ,40  ,36  
+GALEGA, Galega, Goat's Rue\489
+489 ,3   ,3   ,12  ,12  
+GALIUM, Galium Aparine, Goose-Grass\490
+490 ,10  ,10  ,40  ,40  
+GALLICUM ACIDUM, Gallicum Acidum, Gallic Acid\491
+491 ,22  ,23  ,98  ,94  
+GAMBOGIA, Gambogia - Garcinia Morella, Gummi Gutti\492
+492 ,16  ,16  ,63  ,63  
+GAULTHERIA, Gaultheria, Wintergreen\493
+493 ,14  ,14  ,56  ,56  
+GELATIN, Gelatin\494
+494 ,0   ,0   ,0   ,0   
+GELLS, Gelsemium Sempervirens, Yellow Jasmine*\495
+495 ,204 ,212 ,898 ,870 
+GENISTA, Genista, Dyer's Weed\496
+496 ,4   ,5   ,20  ,16  
+GENTIANA CRUCIATA, Gentiana Cruciata\497
+497 ,10  ,10  ,40  ,40  
+GENTIANA LUTEA, Gentiana Lutea, Yellow Gentian\498
+498 ,10  ,13  ,52  ,40  
+GENTIANA QUINQUE, Gentiana Quinque Flora\499
+499 ,4   ,4   ,16  ,16  
+GERANIN, Geranin\500
+500 ,1   ,1   ,4   ,4   
+GERANIUM, Geranium Maculatum, Crane's-bill\501
+501 ,18  ,18  ,71  ,71  
+GETTYSBURG WATER, Gettysburg Water\502
+502 ,14  ,14  ,56  ,56  
+GEUM, Geum, Water-Avens\503
+503 ,4   ,4   ,16  ,16  
+GINSENG, Ginseng, Aralia Quinquefolia - Wild Ginseng - Panax\504
+504 ,31  ,31  ,124 ,124 
+GLECHOMA HEDERACEA, Glechoma Hederacea, Ground Ivy\505
+505 ,5   ,5   ,20  ,20  
+GLON, Glonine, Nitroglycerine or Spirits Glycerinus Nitrate*\506
+506 ,84  ,89  ,359 ,339 
+GLYCERINUM, Glycerinum, Glycerine\507
+507 ,21  ,25  ,100 ,84  
+GNAPHALIUM, Gnaphalium, Cud-Weed - Old Balsam\508
+508 ,21  ,23  ,92  ,84  
+GOLONDRINA, Golondrina, Euphorbia Polycarpa\509
+509 ,1   ,1   ,5   ,5   
+GOSSYPIUM, Gossypium, Cotton-plant\510
+510 ,14  ,14  ,56  ,56  
+GRANATUM, Granatum, Pomegranate\511
+511 ,23  ,23  ,92  ,92  
+GRAPH, Graphites (Plumbago), Black Lead*\512
+512 ,142 ,151 ,613 ,581 
+GRATIOLA, Gratiola, Hedge Hyssop\513
+513 ,28  ,32  ,139 ,118 
+GRINDELIA, Grindelia, Rosin-Wood\514
+514 ,33  ,36  ,139 ,131 
+GUACO, Guaco, Mikania, Climbing Hemp Weed\515
+515 ,28  ,30  ,120 ,112 
+GUAIACOL, Guaiacol\516
+516 ,2   ,2   ,8   ,8   
+GUAIACUM, Guaiacum, Resin of Lignum Vitae\517
+517 ,65  ,70  ,285 ,265 
+GUANO, Guano\518
+518 ,6   ,6   ,24  ,24  
+GUAREA, Guarea, Ballwood\519
+519 ,11  ,13  ,52  ,44  
+GUN POWDER, Gun Powder, Nitre with Sulphur and Charcoal\520
+520 ,4   ,4   ,16  ,16  
+GYMNEMA, Gymnema Sylvestre\521
+521 ,2   ,2   ,9   ,9   
+GYMNOCLADUS, Gymnocladus, American Coffee-tree\522
+522 ,12  ,12  ,50  ,50  
+HAEMATOXYLON, Haematoxylon, Logwood\523
+523 ,16  ,19  ,76  ,64  
+HAM, Hamamelis Virginica, Witch Hazel*\524
+524 ,77  ,82  ,330 ,310 
+HEDEOMA, Hedeoma, Pennyroyal\525
+525 ,26  ,29  ,120 ,106 
+HEDERA, Hedera, Ivy\526
+526 ,2   ,2   ,10  ,10  
+HEDERA HELIX, Hedera Helix, Common Ivy\527
+527 ,5   ,5   ,22  ,22  
+HEDYSARUM, Hedysarum, Brazilian Burdock\528
+528 ,2   ,2   ,8   ,8   
+HEKLA LAVA, Hekla Lava, Lava Scoriae from Mt. Hecla\529
+529 ,17  ,21  ,84  ,68  
+HELIOTROPIUM, Heliotropium\530
+530 ,2   ,2   ,8   ,8   
+HELIX TOSTA, Helix Tosta, Snail\531
+531 ,3   ,3   ,12  ,12  
+HELLEBOR., Helleborus, Snow-Rose\532
+532 ,67  ,68  ,283 ,279 
+HELLEBOR. FATIDUS, Helleborus Fatidus or Polymnia, Bear-s Foot\533
+533 ,7   ,8   ,32  ,28  
+HELLEBOR. ORIENTALIS, Helleborus Orientalis\534
+534 ,1   ,1   ,4   ,4   
+HELIANTHUS, Helianthus, Sunflower\535
+535 ,15  ,18  ,73  ,61  
+HELMINTOCHORTOS, Helmintochortos, Worm-moss\536
+536 ,2   ,2   ,8   ,8   
+HELODERMA, Heloderma, Gila Monster\537
+537 ,30  ,30  ,119 ,119 
+HELONIAS, Helonias - Chamaelirium, Unicorn-root\538
+538 ,40  ,43  ,176 ,172 
+HENCHERA, Henchera, Alum Root\539
+539 ,3   ,3   ,12  ,12  
+HEP, Hepar Sulphuris Calcereum, Sulphuret of Lime (Hahnemann's Calcium Sulphide)*\540
+540 ,206 ,210 ,827 ,817 
+HEPATICA, Hepatica, Liver-Wort\541
+541 ,6   ,6   ,24  ,24  
+HERACLEUM, Heracleum-Branca Ursina, Hogweed\542
+542 ,11  ,11  ,44  ,44  
+HERPES FACIALIS, Herpes Facialis\543
+543 ,3   ,3   ,12  ,12  
+HIPPOMANES, Hippomanes, A Meconium Deposit out of the Amniotic Fluid taken from the Colt\544
+544 ,11  ,11  ,44  ,44  
+HIPPOZAENIUM, Hippozaenium, Gladerine-mallein-Farcine\545
+545 ,31  ,31  ,124 ,124 
+HIPPURIC ACID, Hippuric Acid\546
+546 ,16  ,16  ,63  ,63  
+HOANG NAN, Hoang Nan - Strychnos Gaultheriana, Tropical Bind-weed\547
+547 ,12  ,12  ,48  ,48  
+HOANG NAN ATOXYL, Hoang Nan. Atoxyl., Sodium Arseniate\548
+548 ,2   ,2   ,8   ,8   
+HOITZIA, Hoitzia\549
+549 ,6   ,6   ,24  ,24  
+HOMARUS, Homarus, Digestive Fluid of Live Lobster\550
+550 ,11  ,11  ,44  ,44  
+HURA BRAZILIENSIS, Hura Braziliensis, Assacu\551
+551 ,7   ,7   ,28  ,28  
+HYDRANGEA, Hydrangea, Seven-Barks\552
+552 ,13  ,13  ,52  ,52  
+HYDRASTIN MUR., Hydrastinum Muriaticum, Muriate of Hydrastia\553
+553 ,7   ,7   ,28  ,28  
+HYDRASTIN SULPH, Hydrastinum Sulph\554
+554 ,1   ,1   ,4   ,4   
+HYDRASTIS, Hydrastis, Goldenseal*\555
+555 ,79  ,83  ,331 ,315 
+HYDROBROMIC AC, Hydrobromic Acid\556
+556 ,9   ,9   ,36  ,36  
+HYDROCOTYLE, Hydrocotyle, Indian Pennywort\557
+557 ,25  ,28  ,112 ,100 
+HYDROCYANIC ACID, Hydrocyanic Acid, Prussic Acid\558
+558 ,44  ,44  ,185 ,185 
+HYDROPHOBINUM, Hydrophobinum, Lyssin - Saliva of Rabid Dog\559
+559 ,29  ,29  ,123 ,123 
+HYDROPHYLLUM, Hydrophyllum, Burr-flower\560
+560 ,4   ,4   ,16  ,16  
+HYOS HYDROBROM, Hyoscyamos Hydrobromide, Scopolamine Hydrobromide\561
+561 ,7   ,7   ,28  ,28  
+HYOS, Hyoscyamos Niger, Henbane*\562
+562 ,102 ,102 ,432 ,432 
+HYPER, Hypericum Perforatum, St. John's Wort*\563
+563 ,92  ,93  ,392 ,388 
+IBERIS, Iberis, Bitter Candytuft\564
+564 ,35  ,35  ,147 ,147 
+ICHTHYOLUM, Ichthyolum, A Combination of Sulphonated Hydrocarbons; a Fossil Product of Complex Structure found in Tyrol, supposed to be Fish Deposits, contains 10% Sulphur.\565
+565 ,47  ,47  ,194 ,194 
+ICHTHYOTOXIN, Ichthyotoxin, Eel Serum\566
+566 ,10  ,10  ,40  ,40  
+IGN, Ignatia Amara, St. Ignatius Bean*\567
+567 ,139 ,142 ,635 ,620 
+ILLECEBRUM, Illecebrum\568
+568 ,3   ,3   ,12  ,12  
+ILLICIUM, Illicium, Anise\569
+569 ,16  ,17  ,64  ,64  
+ILEX AQUIFOLIUM, Ilex Aquifolium, American Holly\570
+570 ,9   ,9   ,35  ,35  
+ILEX CASSINE, Ilex Cassine, Christmas Berry Tea\571
+571 ,0   ,0   ,0   ,0   
+ILEX PARAGUAYENSIS, Ilex Paraguayensis, Yerba Mate\572
+572 ,13  ,13  ,53  ,53  
+ILEX VOMITORIA, Ilex Vomitoria, Yaupon\573
+573 ,2   ,2   ,8   ,8   
+INDIGO, Indigo, Indigo - Dye-Stuff\574
+574 ,43  ,43  ,182 ,182 
+INDIUM, Indium, The Metal Indium\575
+575 ,23  ,23  ,91  ,91  
+INDOFORM, Indoform\576
+576 ,1   ,1   ,5   ,5   
+INDOL, Indol, A Crystalline Compound Derivable from Indigo, but also a product of Putrefaction of Proteids\577
+577 ,19  ,19  ,77  ,77  
+INGLUVIN, Ingluvin, Made from Gizzard of a Fowl\578
+578 ,4   ,4   ,16  ,16  
+INSULIN, Insulin, An Active Principle from the Pancreas Which Affects Sugar Metabolism\579
+579 ,7   ,7   ,28  ,28  
+INULA, Inula, Scabwort\580
+580 ,27  ,29  ,113 ,105 
+IODOFORMUM, Iodoformum, Iodoform\581
+581 ,26  ,27  ,110 ,106 
+IODOTHYRINE, Iodothyrine\582
+582 ,1   ,1   ,4   ,4   
+IOD, Iodum, Iodine*\583
+583 ,153 ,157 ,637 ,629 
+IONESIA ASOCA, Ionesia Asoca, Saraca Indica\584
+584 ,3   ,3   ,11  ,11  
+IPECACAUNHA, Ipecacuanha, Ipecac-Root*\585
+585 ,104 ,106 ,426 ,422 
+IPOMEA, Ipomea - Convolvulus Duartinus, Morning Glory\586
+586 ,5   ,5   ,20  ,20  
+IRIDIUM, Iridium, The Metal\587
+587 ,26  ,26  ,109 ,109 
+IRIDIUM CHLORIDE, Iridium Chloride\588
+588 ,5   ,5   ,20  ,20  
+IRIS FACTISSIMA, Iris Factissima\589
+589 ,2   ,2   ,8   ,8   
+IRIS FLORENTINA, Iris Florentina, Ortis-Root\590
+590 ,3   ,3   ,14  ,14  
+IRIS GERMANICA, Iris Germanica, Blue Garden Iris\591
+591 ,2   ,2   ,9   ,9   
+IRIS TENAX, Iris Tenax, I. Minor\592
+592 ,5   ,5   ,19  ,19  
+IRIS, Iris Versicolor, Blue Flag*\593
+593 ,34  ,36  ,140 ,136 
+JACARANDA, Jacaranda, Brazilian Caroba-Tree\594
+594 ,24  ,36  ,144 ,96  
+JACARANDA GUALANDAI, Jacaranda Gualandai\595
+595 ,4   ,4   ,16  ,16  
+JALAPA, Jalapa - Exogonium Purga, Jalap\596
+596 ,16  ,16  ,64  ,64  
+JATROPHA, Jatropha, Purging Nut\597
+597 ,20  ,23  ,93  ,81  
+JATROPHA URENS, Jatropha Urens, Sponge-Nettle\598
+598 ,2   ,2   ,8   ,8   
+JEQUIRITOL, Jequiritol\599
+599 ,2   ,2   ,8   ,8   
+JEQUIRITY, Jequirity - Arbrus Precatorius, Crab's Eye Vine\600
+600 ,7   ,7   ,28  ,28  
+JONOSIA ASOCA, Jonosia Asoca, Bark of an Indian Tree, introduced by Dr. N. D. Ray, Calcutta\601
+601 ,21  ,21  ,88  ,88  
+JUGLANDIN, Juglandin\602
+602 ,2   ,2   ,8   ,8   
+JUGLANS CINDEREA, Juglans Cinerea, Butternut\603
+603 ,33  ,35  ,138 ,130 
+JUGLANS REGIA, Juglans Regia, Walnut\604
+604 ,12  ,17  ,70  ,50  
+JUNCUS EFFUSUS, Juncus Effusus, Common Rush\605
+605 ,9   ,9   ,36  ,36  
+JUNIPERUS COMMUNIS, Juniperus Communis, Juniper Berries\606
+606 ,10  ,10  ,42  ,42  
+JUNIPERUS VIRGINIANUS, Juniperus Virginianus, Red Cedar\607
+607 ,11  ,11  ,44  ,44  
+JUSTICIA ADHATODA BASAKA, Justicia Adhatoda Basaka, An Indian Shrub, Singhee\608
+608 ,19  ,23  ,93  ,77  
+KALI ACET, Kali Aceticum\609
+609 ,4   ,4   ,16  ,16  
+KALI ARSENICUM, Kali Arsenicum, Fowler's Solution\610
+610 ,14  ,20  ,80  ,60  
+KALI-BI, Kali Bichromicum, Potassium Bichromate*\611
+611 ,176 ,179 ,723 ,715 
+KALI-BROM, Kali Bromatum, Bromide of Potash\612
+612 ,69  ,70  ,308 ,304 
+KALI-C, Kali Carbonicum, Potassium Carbonate*\613
+613 ,165 ,168 ,680 ,668 
+KALI-CHLOR, Kali Chloricum, Chlorate of Potassium - K clo. 3\614
+614 ,29  ,29  ,116 ,116 
+KALI-CIT, Kali Citricum\615
+615 ,1   ,1   ,4   ,4   
+KALI CYAN, Kali Cyanatum, Potassium Cyanide\616
+616 ,14  ,14  ,56  ,56  
+KALI-F, Kali Ferrocyanatum, Prussian Blue\617
+617 ,7   ,7   ,28  ,28  
+KALI-H, Kali Hydriodicum, Iodide of Potassium\618
+618 ,92  ,93  ,375 ,375 
+KALI HYPO, Kali Hypophosph.\619
+619 ,4   ,4   ,15  ,15  
+KALI-M, Kali Muriaticum, Potassium Chloride*\620
+620 ,90  ,92  ,371 ,363 
+KALI-N, Kali Nitricum - Nitrum, Nitrate of Potassium - Saltpeter\621
+621 ,49  ,52  ,209 ,197 
+KALI-O, Kali Oxalicum\622
+622 ,2   ,2   ,8   ,8   
+KALI-PERM, Kali Permanganicum, Permanganate of Potassium\623
+623 ,21  ,21  ,84  ,84  
+KALI-P, Kali Phosphoricum, Potassium Phosphate*\624
+624 ,101 ,107 ,476 ,446 
+KALI-PIC, Kali Picro-Nitricum and Kali Picricum\625
+625 ,2   ,2   ,8   ,8   
+KALI-SAL, Kali Salicylicum\626
+626 ,2   ,2   ,8   ,8   
+KALI-SILICATUM, Kali Silicatum, Silicate of Potash\627
+627 ,25  ,25  ,110 ,110 
+KALI-SIL, Kali Silicum\628
+628 ,1   ,1   ,4   ,4   
+KALI-S, Kali Sulfuricum, Potassium Sulfate*\629
+629 ,73  ,74  ,308 ,304 
+KALI-SULPH-CHROMICO, Kali Sulphuricum Chromico, Alum of Chrome\630
+630 ,4   ,4   ,16  ,16  
+KALI-TAR, Kali Tartaricum\631
+631 ,1   ,1   ,4   ,4   
+KALI-TEL, Kali Telluricum\632
+632 ,3   ,3   ,12  ,12  
+KALMIA LATIFOLIA, Kalmia Latifolia, Mountain Laurel\633
+633 ,58  ,59  ,237 ,233 
+KAOLIN, Kaolin, Bolus Alba (China Clay) Alumina Silicate\634
+634 ,10  ,10  ,40  ,40  
+KINO, Kino, from Pterocarpus\635
+635 ,2   ,2   ,8   ,8   
+KOCH's LYMPH, Koch's Lymph\636
+636 ,5   ,6   ,24  ,20  
+KOUSSO, Kousso - Brayera, Hagenia Abyssinica\637
+637 ,7   ,7   ,30  ,30  
+KREO, Kreosotum, Beechwood Kreosote*\638
+638 ,97  ,97  ,403 ,403 
+LABURNUM, Laburnum, Cystisus Laburnum\639
+639 ,27  ,27  ,110 ,110 
+LAC CANINUM, Lactis Caninum, Dog's Milk\640
+640 ,59  ,61  ,257 ,249 
+LAC DEFLORATUM, Lac Defloratum, Skimmed Milk\641
+641 ,9   ,9   ,38  ,38  
+LAC FIL, Lactis Felinum, Cat's Milk\642
+642 ,5   ,5   ,22  ,22  
+LAC VACC, Lactis Vaccinum, Cow's Milk\643
+643 ,3   ,3   ,12  ,12  
+LAC VACC COAG, Lactis Vaccinum Coagulatum, Curds\644
+644 ,1   ,1   ,4   ,4   
+LAC VACC FLOC, Lactis Vaccini Floc, Cream\645
+645 ,4   ,4   ,16  ,16  
+LACERTA, Lacerta, Green Lizard\646
+646 ,7   ,7   ,30  ,30  
+LACH CL, Lachesis Clotho Arictans, Puff Adder\647
+647 ,1   ,1   ,4   ,4   
+LACH KAL, Lachesis Kalagua\648
+648 ,2   ,2   ,8   ,8   
+LACH, Lachesis Mutus, Surukuku (Bushmaster) Snake Venum*\649
+649 ,176 ,209 ,863 ,744 
+LACHNANTES, Lachnantes, Spirit-weed\650
+650 ,19  ,19  ,78  ,78  
+LACTICUM ACIDUM, Lacticum Acidum, Lactic Acid\651
+651 ,21  ,21  ,84  ,84  
+LACTUCA VIROSA, Lactuca Virosa, Acrid Lettuce\652
+652 ,28  ,28  ,115 ,115 
+LAFFA, Laffa Acutangula\653
+653 ,2   ,2   ,8   ,8   
+LAMIUM, Lamium, White Nettle\654
+654 ,9   ,11  ,44  ,36  
+LAPATHUM, Lapathum\655
+655 ,1   ,1   ,4   ,4   
+LAPIS ALBUS, Lapis Albus, Silico-Fluoride of Calcium\656
+656 ,21  ,24  ,96  ,84  
+LAPPA, Lappa - Arctium, Burdock\657
+657 ,13  ,21  ,84  ,52  
+LAPSANA, Lapsana Communis, Nipple-wort\658
+658 ,2   ,2   ,8   ,8   
+LATHYRUS, Lathyrus, Chick-Pea\659
+659 ,29  ,29  ,117 ,117 
+LAT-H, Latrodectus Hasselti, New South Wales Black Spider\660
+660 ,10  ,10  ,45  ,45  
+LAT-K, Latrodectus Kalipe, New Zealand Spider\661
+661 ,2   ,2   ,8   ,8   
+LAT-M, Latrodectus Mactaus, Black Widow Spider*\662
+662 ,27  ,28  ,118 ,114 
+LAUROCERASUS, Laurocerasus, Cherry-Laurel\663
+663 ,133 ,136 ,534 ,530 
+LEMNA, Lemna Minor, Duckweed\664
+664 ,15  ,15  ,59  ,59  
+LEONURUS, Leonurus - Motherwort\665
+665 ,10  ,10  ,42  ,42  
+LEPIDIUM, Lepidium Bonariense, Cress - Brazillian Cress\666
+666 ,9   ,12  ,44  ,36  
+LEPTANDRA, Leptandra, Culver's Root\667
+667 ,16  ,17  ,68  ,64  
+LEVICO WATER, Levico Water (containing Ars., Iron and Copper of South Tyrol)\668
+668 ,4   ,4   ,16  ,16  
+LIATRIS, Liatris Spicata - Serratula, Colic Root\669
+669 ,9   ,9   ,36  ,36  
+LIL-T, Lilium Tigrinum, Tiger Lily*\670
+670 ,83  ,87  ,389 ,372 
+LIMULUS, Limulus. (Xiphosura), Horse-Foot - King-Crab\671
+671 ,24  ,24  ,96  ,96  
+LINARIA, Linaria, Toad-Flax - Snap Dragon\672
+672 ,13  ,14  ,59  ,55  
+LINUM CATH, Linum Catharticum, Purging Flax\673
+673 ,5   ,5   ,20  ,20  
+LINUM US., Linum Usitatissimum, Common Flax\674
+674 ,10  ,10  ,40  ,40  
+LIPPIA MEXICANA, Lippia Mexicana\675
+675 ,3   ,3   ,12  ,12  
+LITHIUM BENZ, Lithium Benzoicum\676
+676 ,7   ,7   ,28  ,28  
+LITHIUM BROM, Lithium Bromatum\677
+677 ,4   ,4   ,16  ,16  
+LITHIUM CARB, Lithium Carbonicum, Carbonate of Lithium\678
+678 ,53  ,53  ,214 ,214 
+LITHIUM CHLOR, Lithium Chlor\679
+679 ,9   ,9   ,36  ,36  
+LITHIUM LACT, Lithium Lacticum\680
+680 ,1   ,1   ,4   ,4   
+LOBELIA CARD, Lobelia Cardinalis\681
+681 ,3   ,3   ,12  ,12  
+LOBELIA ERIMUS, Lobelia Erimus\682
+682 ,9   ,9   ,38  ,38  
+LOBELIA INFLATA, Lobelia Inflata, Indian Tobacco\683
+683 ,52  ,53  ,208 ,208 
+LOBELIA PUR., Lobelia Purpurascens, Purple Lobelia\684
+684 ,16  ,16  ,66  ,66  
+LOBELIA SYPH., Lobelia Syphilitica or Cerulea\685
+685 ,13  ,14  ,55  ,51  
+LOLIUM TEM, Lolium Temulentum, Darnel\686
+686 ,21  ,21  ,84  ,84  
+LONICERA PERIC, Lonicera Pericylmenum, Honeysuckle\687
+687 ,1   ,1   ,6   ,6   
+LONICERA XYL, Lonicera Xylosteum, Fly-Woodbine\688
+688 ,14  ,14  ,56  ,56  
+LUMINAL, Luminal\689
+689 ,2   ,2   ,8   ,8   
+LUPULUS-HUMULUS, Lupulus-Humulus, Hops\690
+690 ,20  ,21  ,83  ,83  
+LYC, Lycopodium Clavatum, Club Moss*\691
+691 ,302 ,303 ,1278,1272
+LYCOPODIUM IK, Lycopodium Iksbugandba\692
+692 ,3   ,3   ,12  ,12  
+LYCOPUS VIRGINICUS, Lycopus Virginicus, Bugle-Weed\693
+693 ,27  ,27  ,108 ,108 
+MACROTIN, Macrotin\694
+694 ,1   ,1   ,4   ,4   
+MACROZAMIA, Macrozamia Spiralis\695
+695 ,6   ,6   ,23  ,23  
+MACUNA PRURENS, Macruna Prurens, Dolichos\696
+696 ,2   ,2   ,8   ,8   
+MAG-A, Magnesia Artificialis\697
+697 ,4   ,4   ,16  ,16  
+MAG-C, Magnesia Carbonica, Magnesium Carbonate*\698
+698 ,91  ,91  ,369 ,369 
+MAG-M, Magnesia Muriatica, Magnesium Chloride*\699
+699 ,53  ,54  ,213 ,209 
+MAG-P, Magnesia Phosphorica, Magnesium Phosphate*\700
+700 ,72  ,80  ,321 ,289 
+MAGNESIA SULPHURICA, Magnesia Sulphurica, Epsom Salt\701
+701 ,27  ,42  ,154 ,110 
+MAGNETIS POLI AMBO., Magnetis Poli Ambo, The Magnet - Sugar of Milk or Distilled Water Exposed to Influence of Entire Mass\702
+702 ,5   ,5   ,20  ,20  
+MAGNETIS POLUS ARTICUS, Magnetis Polus Articus, North Pole of the Magnet\703
+703 ,12  ,12  ,50  ,50  
+MAGNETIS POLUS AUSTRALIS, Magnetis Polus Australis, South Pole of the Magnet\704
+704 ,8   ,8   ,32  ,32  
+MAGNOLIA GRANDIFLORA, Magnolia Grandiflora, Magnolia\705
+705 ,29  ,31  ,121 ,113 
+MALANDRINUM, Malandrinum, the Morbid Product of Grease in Horses\706
+706 ,10  ,10  ,40  ,40  
+MALARIA EFFICINALIS, Malaria Officinalis, Decomposed Vegetable Matter\707
+707 ,6   ,6   ,24  ,24  
+MALLOTUS, Mallotus, Kamala\708
+708 ,1   ,1   ,4   ,4   
+MANCINELLA, Mancinella, Hippomane - Mangancel Apple\709
+709 ,32  ,41  ,172 ,140 
+MAND, Mandragora, Mandrake\710
+710 ,9   ,9   ,40  ,40  
+MANGANESE, Colloidal Manganese\711
+711 ,1   ,1   ,4   ,4   
+MANGANUM ACETICUM, Manganum Aceticum, Manganese Acetate\712
+712 ,82  ,82  ,332 ,332 
+MANGAN MUR, Manganum Mur.\713
+713 ,2   ,2   ,8   ,8   
+MANGAN OXYDAT, Manganum Oxydat\714
+714 ,16  ,16  ,65  ,65  
+MANGAN SULPH, Manganum Sulph\715
+715 ,2   ,2   ,8   ,8   
+MANGIFERA INDICA, Mangifera Indica, Mango Tree\716
+716 ,24  ,30  ,124 ,98  
+MANZANITA, Manzanita\717
+717 ,5   ,5   ,20  ,20  
+MARRUBIUM, Marrubium, Hoarhound\718
+718 ,4   ,4   ,16  ,16  
+MATICO, Matico, Artanthe or Piper Augustifolia\719
+719 ,5   ,5   ,20  ,20  
+MEDORRHINUM, Medorrhinum, The Gonorrheal Virus\720
+720 ,120 ,120 ,513 ,513 
+MEDUSA, Medusa, Jelly-Fish\721
+721 ,6   ,7   ,26  ,23  
+MEL CUM SALE, Mel Cum Sale, Honey with Salt\722
+722 ,7   ,8   ,32  ,28  
+MELILOTUS, Melilotus, Yellow Melilot - Sweet Clover\723
+723 ,47  ,54  ,228 ,200 
+MELILOTUS ALBA, Melilotus Alba, White Clover\724
+724 ,4   ,4   ,16  ,16  
+MENISPERMUM, Menispermum, Moonseed\725
+725 ,10  ,11  ,44  ,40  
+MENTHA PIPERITA, Mentha Piperita, Peppermint\726
+726 ,14  ,20  ,76  ,56  
+MENTHA PULEGIUM, Mentha Pulegium, European Pennyroyal\727
+727 ,1   ,1   ,4   ,4   
+MENTHA VIRIDIS, Mentha Viridis, Spearmint\728
+728 ,1   ,1   ,4   ,4   
+MENTHOL, Menthol, Menthol\729
+729 ,21  ,21  ,86  ,86  
+MENYANTHES, Menyanthes, Buck-Bean\730
+730 ,26  ,26  ,107 ,107 
+MEPHITIS, Mephitis, Skunk\731
+731 ,26  ,27  ,116 ,112 
+MERC HYDR, Mercurious - Hydrargyrum, Quicksilver\732
+732 ,147 ,149 ,598 ,598 
+MERC ACET, Mercurius Acet.\733
+733 ,8   ,8   ,33  ,33  
+MERC AUR, Mercurius Auratus\734
+734 ,6   ,6   ,24  ,24  
+MERC BROM, Mercurius Bromatus\735
+735 ,1   ,1   ,4   ,4   
+MERC CORR, Mercurius Corrosivus, Corrosive Sublimate\736
+736 ,63  ,66  ,258 ,258 
+MERC CUM KALI, Mercurius Cum Kali\737
+737 ,2   ,2   ,8   ,8   
+MERC CYAN, Mercurius Cyanatus, Cyanide of Mercury\738
+738 ,44  ,45  ,182 ,178 
+MERC DULC, Mercurius Dulcis, Calomel\739
+739 ,36  ,40  ,160 ,144 
+MERC IOD FLAV, Mercurius Iodatus Flavus, Proto-Iodide of Mercury\740
+740 ,14  ,14  ,56  ,56  
+MERC IOD RUB, Mercurius Iodatus Ruber, Bin-Iodide of Mercury\741
+741 ,34  ,35  ,139 ,135 
+MERC NITRO, Mercurius Nitrosus, Nitrate of Mercury\742
+742 ,4   ,6   ,24  ,16  
+MERC PER, Mercurialis Perennis, Dog's Mercury\743
+743 ,17  ,17  ,68  ,68  
+MERC PHOS, Mercurius Phosphoricus\744
+744 ,2   ,2   ,8   ,8   
+MERC PRAC RUB, Mercurius Pracipitatus Ruber\745
+745 ,10  ,10  ,40  ,40  
+MERC SULPH, Mercurius Sulphuricus - Hydrarg. Oxyd. Sub-Sulph, Turpethum Minerale - Yellow Sulphate of Mercury.\746
+746 ,11  ,11  ,44  ,44  
+MERC TANN, Mercurius Tannicus\747
+747 ,1   ,1   ,4   ,4   
+MERC VIV, Mercurius Vivus, Mercury and Mercurius Solubilis*\748
+748 ,102 ,102 ,426 ,426 
+METHYLENE BLUE, Methylene Blue, One of the Aniline Dyes\749
+749 ,18  ,18  ,76  ,76  
+METHYLIUM, Methylium Salicylicum, an artificial Gaultheria oil\750
+750 ,3   ,3   ,12  ,12  
+MEZER. CHOP, Mezer. Chopheenee\751
+751 ,3   ,3   ,12  ,12  
+MEZ, Mezereum, Spurge Olive*\752
+752 ,72  ,99  ,366 ,290 
+MICROMERIA, Micromeria, Yerba Buena\753
+753 ,4   ,4   ,16  ,16  
+MILLEFOLIUM, Millefolium, Yarrow\754
+754 ,24  ,27  ,111 ,99  
+MIMOSA, Mimosa, Sensitive Plant\755
+755 ,5   ,5   ,20  ,20  
+MITCHELLA, Mitchella, Partridge-Berry\756
+756 ,6   ,7   ,28  ,24  
+MOMORDICA BALS, Momordica Balsamina, Balsam Apple\757
+757 ,10  ,10  ,40  ,40  
+MOMORDICA CHARANTIA, Momordica Charantia, Hairy Mordica\758
+758 ,7   ,7   ,28  ,28  
+MONSONIA, Monsonia, an African plant belonging to the Geraniaccae\759
+759 ,1   ,1   ,4   ,4   
+MORB, Morbillinum, Measles Tissue*\760
+760 ,1   ,1   ,4   ,4   
+MORPHINUM, Morphinum, An Alkaloid of Opium\761
+761 ,91  ,91  ,381 ,381 
+MOSCHUS, Moschus, Musk\762
+762 ,57  ,59  ,250 ,241 
+MUCO, Muco-Toxin, Cahi's preparation with the Micro-Coccus Catarrhalis\763
+763 ,1   ,1   ,4   ,4   
+MUCUNA URENS, Mucuna Urens\764
+764 ,2   ,2   ,8   ,8   
+MUR-AC, Muratic Acid, Hydrochloric Acid*\765
+765 ,2   ,2   ,8   ,8   
+MUREX, Murex, Purple Fish\766
+766 ,21  ,22  ,108 ,102 
+MURIATICUM ACIDUM, Muriaticum Acidum, Muriatic Acid\767
+767 ,66  ,66  ,269 ,269 
+MUSTARD OIL, Mustard Oil\768
+768 ,4   ,4   ,16  ,16  
+MYGALE LASIODORA, Mygale Lasiodora, Black Cuban Spider\769
+769 ,29  ,32  ,136 ,124 
+MYOSOTIS, Myosotis, Forget-Me-Not\770
+770 ,6   ,6   ,24  ,24  
+MYRICA, Myrica, Bayberry\771
+771 ,40  ,43  ,176 ,164 
+MYRISTICA SEBIFERA, Myristica Sebifera, Brazilian Ucuba\772
+772 ,15  ,15  ,60  ,60  
+MYRTUS CHEKAN, Myrtus Chekan\773
+773 ,4   ,4   ,18  ,18  
+MYRTUS COMMUNIS, Myrtus Communis, Myrtle\774
+774 ,8   ,8   ,32  ,32  
+NABULUS, Nabulus, Prenanthes Serpentaria - Rattlesnake Root - White Lettuce, similar to Lactuca\775
+775 ,8   ,8   ,31  ,31  
+NAJA, Naja Naja Naja, Cobra Venum*\776
+776 ,56  ,57  ,235 ,231 
+NAPHTHALINE, Naphthaline, A chemical compound from Coal-Tar; Tar Camphor\777
+777 ,39  ,39  ,158 ,158 
+NARCISSUS, Narcissus, Daffodil\778
+778 ,12  ,12  ,48  ,48  
+NARCISSUS POETICUS, Narcissus Poeticus\779
+779 ,5   ,5   ,20  ,20  
+NASTURTIUM ACQUATICUM, Nasturtium Aquaticum, Watercress\780
+780 ,9   ,9   ,44  ,44  
+NATRUM ARSENICUM, Natrum Arsenicum, Arseniate of Sodium\781
+781 ,30  ,31  ,124 ,120 
+NATRUM ARS GARTNER, Natrum Arsenica Gartner\782
+782 ,5   ,5   ,25  ,25  
+NATRUM CACODYL, Natrum Cacodyl.\783
+783 ,4   ,4   ,16  ,16  
+NATRUM CARBONICUM, Natrum Carbonicum, Carbonate of Sodium\784
+784 ,80  ,80  ,346 ,346 
+NATRUM CHLORATUM, Natrum Chloratum, Labarraque's Solution\785
+785 ,27  ,27  ,104 ,104 
+NATRUM CHOLEINICUM, Natrum Choleinicum, Fel Tauri Deputatum\786
+786 ,8   ,8   ,32  ,32  
+NATRUM HYPOSULPH, Natrum Hyposulph.\787
+787 ,1   ,1   ,4   ,4   
+NATRUM IODAT, Natrum Iodat.\788
+788 ,9   ,9   ,36  ,36  
+NATRUM LACTIC, Natrum Lactic\789
+789 ,4   ,4   ,16  ,16  
+NAT-M, Natrum Muriaticum, Common Salt*\790
+790 ,233 ,239 ,996 ,973 
+NATRUM NITRICUM, Natrum Nitricum, Nitrate of Sodium\791
+791 ,28  ,29  ,115 ,111 
+NATRUM NITROSUM, Natrum Nitrosum\792
+792 ,10  ,10  ,40  ,40  
+NAT-P, Natrum Phosphoricum, Sodium Phosphate*\793
+793 ,68  ,69  ,285 ,285 
+NATRUM SALICYLICUM, Natrum Salicylicum, Salicylate of Sodium\794
+794 ,25  ,26  ,108 ,104 
+NATRUM SELENICUM, Natrum Selenicum\795
+795 ,4   ,4   ,16  ,16  
+NATRUM SILICOFLUORICUM, Natrum Silicofluoricum, Salufer\796
+796 ,6   ,6   ,24  ,24  
+NATRUM SILICUM, Natrum Silicum\797
+797 ,5   ,5   ,20  ,20  
+NATS, Natrum Sulphuricum, Sodium Sulfate (Glauber's Salt)*\798
+798 ,111 ,115 ,475 ,461 
+NATRUM SUCCINATE, Natrum Succinate\799
+799 ,1   ,1   ,4   ,4   
+NATRUM SULPHUROSUM, Natrum Sulphurosum\800
+800 ,1   ,1   ,4   ,4   
+NATRUM SULPHO-CARBOL, Natrum Sulpho-Carbol\801
+801 ,2   ,2   ,8   ,8   
+NATRUM TELLURICUM, Natrum Telluricum\802
+802 ,2   ,2   ,8   ,8   
+NECTRANDA AMARE, Nectranda Amare\803
+803 ,5   ,5   ,20  ,20  
+NED, Nedorrhium, Gonorrheal Tissue*\804
+804 ,12  ,12  ,54  ,54  
+NEGUMDIUM, Negumdium Americanum, Boxelder\805
+805 ,1   ,1   ,4   ,4   
+NEPETA CATARIA, Nepeta Cataria, Catnip\806
+806 ,3   ,3   ,15  ,15  
+NERIUM ODORUM, Nerium Odorum\807
+807 ,3   ,3   ,12  ,12  
+NICCOLUM, Niccolum, Metallic Nickel\808
+808 ,34  ,35  ,139 ,139 
+NICCOLUM SULPHURICUM, Niccolum Sulphuricum, Sulphate of Nickel\809
+809 ,14  ,15  ,62  ,58  
+NICOTINUM, Nicotinum\810
+810 ,3   ,3   ,12  ,12  
+NIT-AC, Nitric Acid, Nitric Acid*\811
+811 ,120 ,120 ,499 ,499 
+NITRI. SPIR. DULC., Nitri Spiritus Dulcis, Sweet Spirits of Nitre\812
+812 ,16  ,17  ,67  ,67  
+NITRO-MURIATIC ACID, Nitro-Muriatic Acid, Aqua Regia\813
+813 ,22  ,24  ,92  ,88  
+NUPHAR LUTEUM, Nuphar Luteum, Yellow Pond-Lily\814
+814 ,8   ,8   ,30  ,30  
+NUX-M, Nux Moschata, Nutmeg*\815
+815 ,88  ,89  ,388 ,384 
+NUX-V, Nux Vomica, Poison Nut*\816
+816 ,280 ,283 ,1199,1191
+NYCTANTHES, Nyctanthes Arbor-Tristis, Paghala-Malli - Sad Tree\817
+817 ,16  ,16  ,66  ,66  
+NYMPHEA ODORATA, Nymphea Odorata, Sweet Water Lily\818
+818 ,5   ,5   ,20  ,20  
+OCIMUM CANUM, Ocimum Canum, Brazilian Alfavaca\819
+819 ,17  ,18  ,72  ,68  
+OENANTHE CROCATA, Oenanthe Crocata, Water Dropwart\820
+820 ,20  ,20  ,82  ,82  
+OENOTHERA BIENNIS, Oenothera Biennis, Evening Primrose\821
+821 ,4   ,4   ,16  ,16  
+OIL OF EUCALYPTUS, Oil of Eucalyptus\822
+822 ,3   ,3   ,14  ,14  
+OLEANDER, Oleander - Nerium Odorum, Rose-Laurel\823
+823 ,58  ,58  ,239 ,239 
+OLEUM ANIMALE, Oleum Animale, Dippel's Animal Oil\824
+824 ,53  ,53  ,221 ,221 
+OLEUM, Oleum Caryophyllum, Oil of Cloves\825
+825 ,1   ,1   ,4   ,4   
+OLEUM JECORIS ASELLI, Oleum Jecoris Aselli, Cod-Liver Oil\826
+826 ,24  ,24  ,95  ,95  
+OLEUM MYRISTICA, Oleum Myristica, Oil of Nutmeg\827
+827 ,3   ,3   ,12  ,12  
+OLEUM SANTALI, Oleum Santali, Oil of Sandalwood\828
+828 ,11  ,12  ,48  ,44  
+ONISCUS ASELLUS, Oniscus Asellus, Millepedes or Wood-Louse\829
+829 ,12  ,12  ,48  ,48  
+ONONIS SPINOSA, Ononis Spinosa, Rest Harrow\830
+830 ,2   ,2   ,8   ,8   
+ONOSMODIUM, Onosmodium, False Gromwell\831
+831 ,61  ,62  ,249 ,245 
+OOPHORINUM, Oophorinum, Ovarian Extract\832
+832 ,6   ,8   ,32  ,24  
+OPERCULINA, Operculina Turpethum, Nishope\833
+833 ,11  ,11  ,50  ,50  
+OP, Opium (Papaver Somniferum), Dried Latex of the Poppy*\834
+834 ,111 ,114 ,472 ,466 
+OPUNTIA, Opuntia - Ficus Indica, Prickly Pear\835
+835 ,4   ,4   ,16  ,16  
+ORCHITINUM, Orchitinum, Testicular Extract\836
+836 ,3   ,3   ,12  ,12  
+OREODAPHNE, Oreodaphne, California Laurel\837
+837 ,13  ,13  ,52  ,52  
+OREXINE TANNATE, Orexine Tannate\838
+838 ,2   ,2   ,8   ,8   
+ORIG, Origanum Marjorana, Sweet Marjoram*\839
+839 ,10  ,10  ,52  ,52  
+ORNITHOGALUM, Ornithogalum Umbellatum, Star of Bethlehem\840
+840 ,18  ,21  ,85  ,73  
+OSMIUM, Osmium, The Element\841
+841 ,29  ,29  ,116 ,116 
+OSTRYA VIRGINICA, Ostrya Virginica, Ironwood\842
+842 ,8   ,9   ,36  ,32  
+OUABAIN, Ouabain, from leaves of Carissa Schimperi - arrow poison\843
+843 ,2   ,2   ,8   ,8   
+OVA TOSTA, Ova Tosta - Tosta Preparata, Roasted Egg-shells - Calcarea Ovorum\844
+844 ,5   ,5   ,20  ,20  
+OVI GAL. PEL., Ovi Gallinae Pellicula, Membrane of Egg-shell\845
+845 ,6   ,6   ,26  ,26  
+OXALICUM ACIDUM, Oxalicum Acidum, Sorrel Acid\846
+846 ,67  ,68  ,282 ,276 
+OXALIS ACETOSELLA, Oxalis Acetosella, Wood Sorrel\847
+847 ,1   ,1   ,4   ,4   
+OXYDEND., Oxydendron - Andromeda Arborea, Sorrel-Tree\848
+848 ,9   ,9   ,36  ,36  
+OXYTROPIS, Oxytropis, Loco-Weed\849
+849 ,34  ,34  ,142 ,142 
+OZONUM, Ozonum\850
+850 ,2   ,2   ,8   ,8   
+PAEONIA, Paeonia, Peony\851
+851 ,23  ,30  ,120 ,96  
+PALLADIUM, Palladium, The Metal\852
+852 ,32  ,34  ,142 ,138 
+PAMBOTANO, Pambotano, a Mexican remedy\853
+853 ,2   ,2   ,8   ,8   
+PANCREATINUM, Pancreatinum, a Combination of Several Enzymes\854
+854 ,2   ,2   ,8   ,8   
+PARAFFINE, Paraffine, Purified Paraffin\855
+855 ,30  ,33  ,131 ,119 
+PAREIRA BRAVA, Pareira Brava - Chondrodendron Tomentosum, Virgin-Vine\856
+856 ,13  ,18  ,64  ,52  
+PARIETARIA, Parietaria\857
+857 ,2   ,2   ,10  ,10  
+PARIS QUADRIFOLIA, Paris Quadrifolia, One-Berry\858
+858 ,32  ,40  ,162 ,130 
+PARTHENIUM, Parthenium - Excoba Amargo, Bitter-Broom\859
+859 ,18  ,18  ,73  ,73  
+PARTID, Parotidinium, Mumps Bacteria*\860
+860 ,1   ,1   ,4   ,4   
+PASSIFLORA INC., Passiflora Incarnata, Passion-Flower\861
+861 ,31  ,34  ,141 ,129 
+PASTINACA, Pastinaca, Parsnip\862
+862 ,4   ,4   ,24  ,24  
+PAULLINIA SORB., Paullinia Sorbilis, Guarana\863
+863 ,8   ,8   ,34  ,34  
+PECTEN - Scallop [Aragallus]\864
+864 ,6   ,6   ,25  ,25  
+PEDICULARIS CANADENSIS, Pedicularis Canadensis\865
+865 ,2   ,2   ,8   ,8   
+PEDICULUS, Pediculus, Head-Louse\866
+866 ,5   ,5   ,20  ,20  
+PELIUS BERUS, Pelius Berus, Adder\867
+867 ,14  ,14  ,58  ,58  
+PELLETIERINE, Pelletierine\868
+868 ,1   ,1   ,4   ,4   
+PENTHORUM, Penthorum, Virginia Stonecrop\869
+869 ,13  ,13  ,52  ,52  
+PEPSINUM, Pepsinum\870
+870 ,6   ,6   ,23  ,23  
+PERIPLOCA GRACA, Periplocia Graca, One of the Asclepiades\871
+871 ,0   ,0   ,0   ,0   
+PERTUS, Pertussin, Whooping Cough Bacteria (Coqueluchin)*\872
+872 ,3   ,3   ,12  ,12  
+PETIVERIA, Petiveria, a South American Plant\873
+873 ,3   ,3   ,12  ,12  
+PETR, Petroleum, Coal Oil (Crude Rock-Oil)*\874
+874 ,96  ,105 ,428 ,397 
+PETROSELINUM, Petroselinum, Parsley\875
+875 ,4   ,6   ,16  ,16  
+PEUMUS BOLDUS, Peumus Boldus, Boldo\876
+876 ,7   ,7   ,28  ,28  
+PHASEOLUS, Phaseolus, Dwarf-Bean\877
+877 ,12  ,14  ,56  ,48  
+PHELLANDRIUM, Phellandrium, Water Dropwort\878
+878 ,20  ,25  ,95  ,79  
+PHLEUM PRATENSE, Phleum Pratence, Timothy Grass\879
+879 ,5   ,5   ,20  ,20  
+PHLORIDZIN, Phloridzen, a Glucosidal Principle Obtained from the Bark of the Root of the Apple and other Fruit Trees\880
+880 ,4   ,4   ,16  ,16  
+PHOS-AC, Phosphoricum Acidum, Glacial Phosphoric Acid*\881
+881 ,133 ,138 ,590 ,570 
+PHOS, Phosphorus, Phosphorus*\882
+882 ,287 ,288 ,1224,1224
+PHOSPH HYDROGENATUS, Phosphorus Hydrogenatus\883
+883 ,3   ,3   ,12  ,12  
+PHOSPH PENTACHLORIDE, Phosphorus Pentachloride\884
+884 ,2   ,2   ,8   ,8   
+PHYSALIS, Physalis - Solanum Vesicarium, Alkekengi - Winter Cherry\885
+885 ,30  ,35  ,144 ,124 
+PHYSOSTIGMA, Physostigma, Caiabar Bean\886
+886 ,56  ,56  ,226 ,226 
+PHYT BERRY, Phytolacca Berry\887
+887 ,2   ,2   ,8   ,8   
+PHYT, Phytolacca Decandra, Pokeroot*\888
+888 ,125 ,129 ,522 ,506 
+PICRICUM ACIDUM, Picricum Acidum, Picric Acid (Trinitrophenol)*\889
+889 ,57  ,59  ,246 ,238 
+PICROTOXIN, Picrotoxin, Alkaloid of Cocculus\890
+890 ,4   ,4   ,16  ,16  
+PILO, Pilocarpinus Microphyllus, Pilocarpine (Jaborandi)*\891
+891 ,53  ,61  ,244 ,212 
+PILO-MUR, Pilocarpin Mur.\892
+892 ,3   ,3   ,12  ,12  
+PIMENTO, Pimento, Allspice\893
+893 ,2   ,2   ,8   ,8   
+PIMPINELLO, Pimpinello, Bibernell\894
+894 ,6   ,6   ,24  ,24  
+PINUS LAMBERTINA, Pinus Lambertina, Sugar Pine\895
+895 ,3   ,3   ,12  ,12  
+PINUS LAMBERTINA SAP, Pinus Lambertina Sap, Sugar Pine Sap\896
+896 ,2   ,2   ,8   ,8   
+PINUS SYLVESTRIS, Pinus Sylvestris, Scotch Pine\897
+897 ,11  ,13  ,53  ,45  
+PIPER METHYSTICUM, Piper Methysticum, Kava-Kava\898
+898 ,19  ,19  ,86  ,86  
+PIPER NIGRUM, Piper Nigrum, Black Pepper\899
+899 ,28  ,28  ,117 ,117 
+PIPERAZINUM, Piperazinum\900
+900 ,6   ,6   ,24  ,24  
+PISCIDIA, Piscidia, White Dogwood\901
+901 ,6   ,6   ,26  ,26  
+PITUITARY GLAND, Pituitary Gland\902
+902 ,8   ,8   ,34  ,34  
+PITUITRIN, Pituitrin\903
+903 ,1   ,1   ,4   ,4   
+PIX LIQUIDA, Pix Liquida, Pine-Tar\904
+904 ,11  ,16  ,64  ,44  
+PLANTAGO MAJOR, Plantago Major, Plantain\905
+905 ,32  ,42  ,169 ,129 
+PLATANUS OCCIDENTALIS, Platanus Occidentalis, Sycamore-Buttonwood\906
+906 ,3   ,5   ,20  ,12  
+PLAT, Platinum, Platinum*\907
+907 ,64  ,77  ,327 ,277 
+PLATINUM MURIATICUM, Platinum Muriaticum\908
+908 ,5   ,5   ,20  ,20  
+PLATINUM MURIATICUM NAT., Platinum Muriaticum Nat\909
+909 ,2   ,2   ,8   ,8   
+PLUMBAGO, Plumbago Littoralis, A Brazilian Plant\910
+910 ,5   ,5   ,20  ,20  
+PLUM, Plumbum Metallicum, Lead*\911
+911 ,112 ,122 ,508 ,472 
+PLUMB ACET, Plumbum Acetate\912
+912 ,2   ,2   ,8   ,8   
+PLUMB CHROM, Plumbum Chromicum\913
+913 ,3   ,3   ,12  ,12  
+PLUM-I, Plumbum Iod.\914
+914 ,12  ,12  ,48  ,48  
+PLUMB PHOSPH, Plumbum Phosph.\915
+915 ,2   ,2   ,8   ,8   
+PLUMERIA, Plumeria Cellinus\916
+916 ,1   ,1   ,4   ,4   
+PODO, Polophylium, May Apple*\917
+917 ,73  ,106 ,425 ,297 
+PNEUMOCOCIN, Pneumococin 200\918
+918 ,4   ,4   ,15  ,15  
+POLYCTRICHUM, Polyctrichum, Haircap Moss\919
+919 ,1   ,1   ,4   ,4   
+POLYGONUM AVI, Polygonum Aviculare, Knot-Grass\920
+920 ,5   ,6   ,24  ,20  
+POLYGONUM PERSICARIA, Polygonum Persicaria\921
+921 ,3   ,3   ,12  ,12  
+POLYGONUM PUNC, Polygonum Punctatum (Hydropiper), Smartweed\922
+922 ,17  ,17  ,68  ,68  
+POLYGONUM SAG, Polygonum Sagitatum, Arrow-Leaved or Tear-Thumb\923
+923 ,5   ,5   ,20  ,20  
+POLYMNIA, Polymnia Uvedalia, Bears-foot\924
+924 ,4   ,4   ,16  ,16  
+POLYPORUS PIN, Polyporus Pinicola, Pine Agaric\925
+925 ,7   ,8   ,28  ,28  
+POLYTRICHUM, Polytrichum Juniperinum, Ground Moss\926
+926 ,4   ,4   ,16  ,16  
+POPULUS CAND, Populus Candicans, Balm of Gilead\927
+927 ,14  ,16  ,62  ,58  
+POPULUS TREM, Populus Tremuloides, American Aspen\928
+928 ,16  ,20  ,80  ,64  
+POTHOS FOET, Pothos Foetidus, Skunk-Cabbage - Ictodes\929
+929 ,15  ,16  ,68  ,64  
+PRIMULA FARINOSA, Primula Farinosa, the Wild Primrose\930
+930 ,1   ,1   ,4   ,4   
+PRIMULA OBCONICA, Primula Obconica, Primrose\931
+931 ,23  ,23  ,91  ,91  
+PRIMULA VERIS, Primula Veris, Cowslip\932
+932 ,15  ,15  ,62  ,62  
+PROPYLAMIN, Propylamin - Trimethylaminum, Distilled Herring-Brine\933
+933 ,8   ,9   ,38  ,34  
+PROTARGOL, Protargol\934
+934 ,4   ,4   ,18  ,18  
+PRUNELLA, Prunella, Self-Heal\935
+935 ,1   ,1   ,4   ,4   
+PRUNUS PADUS, Prunus Padus, Bird-Cherry\936
+936 ,3   ,3   ,12  ,12  
+PRUNUS SPINOSA, Prunus Spinosa, Black-Thorn\937
+937 ,31  ,32  ,128 ,124 
+PRUNUS VIRGINIANA, Prunus Virginiana, Wild Cherry\938
+938 ,6   ,6   ,24  ,24  
+PSORALEA, Psoralea, a Colombian plant\939
+939 ,5   ,5   ,20  ,20  
+PSOR, Psorinum, A Scabies Vesicle*\940
+940 ,116 ,118 ,507 ,500 
+PTELEA, Ptelea, Wafer-Ash\941
+941 ,30  ,37  ,144 ,121 
+PULEX, Pulex Irritans, Common Flea*\942
+942 ,30  ,40  ,154 ,122 
+PULMO VULPIS, Pulmo Vulpis, Wolf's Lung\943
+943 ,2   ,2   ,8   ,8   
+PULS, Pulsatilla, Anemone (Wild Flower)*\944
+944 ,279 ,328 ,1413,1168
+PYRARARA, Pyrarara\945
+945 ,5   ,5   ,20  ,20  
+PYROGENIUM, Pyrogenium, Artificial Sepsin\946
+946 ,69  ,71  ,297 ,289 
+PYRUS, Pyrus, Mountain Ash\947
+947 ,5   ,5   ,20  ,20  
+PYRUS MALUS, Pyrus Malus, Crab-Apple Tree\948
+948 ,1   ,1   ,4   ,4   
+QUASSIA, Quassia - Picraena Excelsa, Quassia-Wood\949
+949 ,18  ,20  ,82  ,74  
+QUERCUS, Quercus Glandium Spiritus, Spirit distilled from Tincture of Acorn Kernels\950
+950 ,8   ,8   ,34  ,34  
+QUILLAYA, Quillaya Saponaria, Chile Soap-Bark\951
+951 ,8   ,9   ,36  ,32  
+QUINIDIN, Quinidin, Isometric Methoxyl Compound\952
+952 ,2   ,2   ,8   ,8   
+RADIUM, Radium, Radium Bromide\953
+953 ,82  ,82  ,337 ,337 
+RAN ACRIS, Ranunculus Acris\954
+954 ,1   ,1   ,4   ,4   
+RAN BULB, Ranunculus Bulbosus, Buttercup*\955
+955 ,40  ,43  ,168 ,160 
+RAN FLAMMULA, Ranunculus Flammula\956
+956 ,2   ,2   ,8   ,8   
+RAN GLACIALIS, Ranunculus Glacialis, Reindeer Flower Carlina\957
+957 ,3   ,3   ,12  ,12  
+RAN REPENS, Ranunculus Repens\958
+958 ,1   ,1   ,4   ,4   
+RANUNCULLUS SCELERATUS, Ranunculus Sceleratus, Marsh Buttercup\959
+959 ,23  ,25  ,103 ,95  
+RAPHANUS, Raphanus, Black Garden Radish\960
+960 ,30  ,30  ,130 ,130 
+RATANB., Ratanb\961
+961 ,2   ,2   ,8   ,8   
+RATANHIA, Ratanhia, Krameria - Mapato\962
+962 ,20  ,26  ,104 ,80  
+RESORCIN, Resorcin\963
+963 ,2   ,2   ,7   ,7   
+RHAMNUS CAL, Rhamnus Californica, California Coffee-Tree\964
+964 ,49  ,53  ,215 ,199 
+RHAMNUS CATH, Rhamnus Cathartica or Rhamnus Frangula, European Buchthorn\965
+965 ,5   ,6   ,24  ,20  
+RHAMNUS PUR, Rhamnus Purshiana, Cascara Sagrada\966
+966 ,2   ,2   ,8   ,8   
+RHEUM, Rheum, Rhubarb\967
+967 ,23  ,27  ,119 ,100 
+RHODIUM, Rhodium, Metal Chemical Element\968
+968 ,17  ,17  ,70  ,70  
+RHOD, Rhododendron, Snowrose*\969
+969 ,43  ,52  ,209 ,180 
+RHUS AROM, Rhus Aromatica, Fragrant Sumach\970
+970 ,10  ,12  ,48  ,40  
+RHUS DIV, Rhus Diversiloba, California Poison Oak*\971
+971 ,7   ,7   ,30  ,30  
+RHUS GLAB, Rhus Glabra, Smooth Sumach\972
+972 ,9   ,10  ,42  ,38  
+RHUS RADICANS, Rhus Radicans\973
+973 ,6   ,7   ,25  ,22  
+RHUS-TOX, Rhus Toxicodendron, Poison Ivy (don't try to make yourself)*\974
+974 ,262 ,264 ,1077,1069
+RHUS VENENATA, Rhus Venenata, Poison-Elder or Poison Sumack*\975
+975 ,20  ,24  ,100 ,84  
+RICINUS COMMUNIS, Ricinus Communis - Bofareira, Castor-Oil\976
+976 ,19  ,20  ,76  ,76  
+ROBINIA, Robinia, Yellow Locust\977
+977 ,26  ,32  ,130 ,106 
+ROSA DAMASCENA, Rosa Damascena, Damask Rose\978
+978 ,4   ,4   ,16  ,16  
+ROSMARINUS, Rosmarinus\979
+979 ,5   ,5   ,22  ,22  
+RUBIA TINCTORUM, Rubia Tinctorum, Madder\980
+980 ,6   ,7   ,28  ,24  
+RUBUS, Rubus Villosus, Blackberry\981
+981 ,2   ,2   ,8   ,8   
+RUMEX, Rumex\982
+982 ,0   ,0   ,0   ,0   
+RUMEX ACETOSA, Rumex Acetosa, Sheep Sorrel\983
+983 ,5   ,5   ,20  ,20  
+RUMEX CRISPUS, Rumex Crispus, Yellow Dock\984
+984 ,34  ,37  ,141 ,133 
+RUMEX OBTUSIFOLIUS, Rumex Obtusifolius - Lapathum, Broad-Leaf Dock\985
+985 ,3   ,3   ,12  ,12  
+RUTA, Ruta Graveolens, Rue-bitterwort*\986
+986 ,80  ,81  ,327 ,323 
+SABAD, Sabadilla, Cevadilla Seed.  Asagrea Officialis*\987
+987 ,63  ,63  ,275 ,275 
+SABAL SERRULATA, Sabal Serrulata, New Palmetto\988
+988 ,33  ,44  ,182 ,138 
+SABN, Sabina, Savine*\989
+989 ,71  ,75  ,310 ,294 
+SACCHARIN, Saccharin\990
+990 ,5   ,5   ,20  ,20  
+SACCHARUM LACTIS, Saccharum Lactis, Sugar of Milk - Lactose\991
+991 ,7   ,7   ,28  ,28  
+SACCHARUM OFFICINALE, Saccharum Officinale - Sucrose, Cane-Sugar\992
+992 ,13  ,13  ,54  ,54  
+SALAMAND, Salamandra [Bufo]\993
+993 ,2   ,2   ,8   ,8   
+SALICYLICUM ACIDUM, Salicylicum Acidum, Salicylic Acid\994
+994 ,41  ,41  ,164 ,164 
+SALIX NIGRA, Salix Nigra, Black-Willow\995
+995 ,20  ,20  ,92  ,92  
+SALMARINUM SEA SALT, Salmarinum Sea Salt\996
+996 ,4   ,4   ,16  ,16  
+SALOL, Salol\997
+997 ,3   ,3   ,12  ,12  
+SALVIA OFFICINALIS, Salvia Officinalis, Sage\998
+998 ,6   ,7   ,28  ,24  
+SALVIA SCLERATA, Salvia Sclerata\999
+999 ,1   ,1   ,6   ,6   
+SAMBUCUS CANADENSIS, Sambucus Canadensis\1000
+1000,1   ,2   ,8   ,4   
+SAMBUCUS NIGRA, Sambucus Nigra, Elder\1001
+1001,43  ,47  ,194 ,178 
+SANG, Sanguinaria, Blood Root*\1002
+1002,93  ,107 ,429 ,373 
+SANG NIT, Sanguinarina Nitrica, Sanguinaria Nitrate\1003
+1003,32  ,32  ,128 ,128 
+SANG-O, Sanguisorba Officinalis, a member of the Rosacea family\1004
+1004,9   ,9   ,36  ,36  
+SANG TART, Sanguinarina Tartaricum\1005
+1005,3   ,3   ,12  ,12  
+SANGUISUGA 30, Sanguisuga 30, Leech\1006
+1006,3   ,3   ,12  ,12  
+SANICULA, Sanicula (Aqua), The Water of Sanicula Springs, Ottawa, Ill.\1007
+1007,34  ,34  ,138 ,138 
+SANTONIN, Santoninum, Santonin\1008
+1008,32  ,42  ,168 ,128 
+SAPONARIA, Saponaria, Soap Root\1009
+1009,30  ,36  ,152 ,128 
+SAPONIN, Saponin\1010
+1010,13  ,13  ,56  ,56  
+SARCOLACTIC ACID, Sarcolactic Acid\1011
+1011,19  ,21  ,82  ,78  
+SARRACENIA PURP, Sarracenia Purpurea, Pitcher-plant\1012
+1012,17  ,17  ,70  ,70  
+SARS, Sarsaparilla, Smilax*\1013
+1013,73  ,87  ,348 ,292 
+SAURURUS, Saururus, Lizard's Tail\1014
+1014,3   ,3   ,12  ,12  
+SAXONITE, Saxonite\1015
+1015,5   ,5   ,20  ,20  
+SCOPOLA, Scopola, Japanese Belladonna\1016
+1016,4   ,4   ,20  ,20  
+SCORPIO, Scorpio\1017
+1017,3   ,3   ,12  ,12  
+SCROPHULARIA NOD, Scrophularia Nodosa, Knotted Figwort\1018
+1018,34  ,37  ,149 ,137 
+SCUTELLARIA LAT, Scutellaria Lateriflora, Skullcap\1019
+1019,33  ,36  ,162 ,146 
+SEC, Secale Cornutum - Claviceps Purpurea, Ergot*\1020
+1020,108 ,108 ,442 ,442 
+SEDUM ACRE, Sedum Acre, Small Houseleek\1021
+1021,8   ,8   ,32  ,32  
+SEDUM REPENS, Sedum Repens, S. Alpestre\1022
+1022,3   ,3   ,12  ,12  
+SEDUM TELEPHIUM, Sedum Telephium\1023
+1023,4   ,4   ,16  ,16  
+SELAGINELLA, Selaginella\1024
+1024,2   ,2   ,10  ,10  
+SELENIUM, Selenium, The Element Selenium\1025
+1025,53  ,55  ,228 ,220 
+SEMPERVIVUM TECTORUM, Sempervivum Tectorum, Houseleek\1026
+1026,17  ,19  ,76  ,68  
+SENC, Senecio Aureus, Squaw-Weed (Golden Ragwort)*\1027
+1027,43  ,45  ,190 ,182 
+SENECIO JACOBAA, Senecio Jacobaa\1028
+1028,3   ,3   ,12  ,12  
+SENEGA, Senega, Snakewort\1029
+1029,50  ,57  ,228 ,204 
+SENNA, Senna, Cassia Acutifolia\1030
+1030,14  ,14  ,56  ,56  
+SEP, Sepia Officinalis, Cuttle Fish Ink*\1031
+1031,278 ,292 ,1223,1166
+SEPIN, Sepin\1032
+1032,0   ,0   ,0   ,0   
+SERUM ANGUILLAR ICHTHYOTOXIN, Serum Anguillar Ichthyotoxin, Eel Serum\1033
+1033,13  ,16  ,62  ,54  
+SILICA MARINA, Silica Marina, Sea-Sand\1034
+1034,2   ,2   ,8   ,8   
+SIL, Silicea, Quartz (Pure Flint)*\1035
+1035,263 ,263 ,1106,1106
+SILICO-SULPHOCALCITE (SLAG), Silico-Sulphocalicite of Alumina, Slag - blast iron furnace tinder\1036
+1036,6   ,6   ,24  ,24  
+SILPHION CYRENAICUM, Siphion Cyrenaicum\1037
+1037,1   ,1   ,4   ,4   
+SILPHIUM, Silphium, Rosin-Weed\1038
+1038,10  ,10  ,40  ,40  
+SINAPIS ALBA, Sinapis Alba, White Mustard\1039
+1039,3   ,4   ,16  ,12  
+SINAPIS NIGRA, Sinapis Nigra - Brassica Nigra, Black Mustard\1040
+1040,27  ,27  ,108 ,108 
+SISYRINCHIUM, Sisyrinchium, Blue-eyed Grass\1041
+1041,1   ,1   ,4   ,4   
+SKATOL, Skatol\1042
+1042,19  ,19  ,88  ,88  
+SKOOKUM-CHUCK, Skookum-Chuck, Chuck - Water and Skookum - Strong (Salts from Water from Medical Lake near Spokane, Wash.\1043
+1043,9   ,9   ,36  ,36  
+SODII BICARBONAS, Sodii Bicarbonas\1044
+1044,1   ,1   ,4   ,4   
+SOLANINUM ACETICUM, Solaninum Aceticum\1045
+1045,1   ,1   ,4   ,4   
+SOLANINUM PSEUDOCAPS, Solaninum Pseudocaps\1046
+1046,1   ,1   ,4   ,4   
+SOLANINUM TUBEROS AGROTANS, Solaninum Tuberos Agrotans, Diseased Potato\1047
+1047,5   ,5   ,22  ,22  
+SOLANUM LYCOPERSICUM, Solanum Lycopersicum - Lycopersicum Esculentum, Tomato\1048
+1048,40  ,47  ,188 ,164 
+SOLANUM CAROLINENSE, Solanum Carolinense, Horse-Nettle\1049
+1049,5   ,5   ,20  ,20  
+SOLAN MAMMOSUM, Solanum Mammosum, Apple of Sodom\1050
+1050,1   ,1   ,4   ,4   
+SOLANUM NIGRUM, Solanum Nigrum, Black Nightshade\1051
+1051,22  ,22  ,94  ,94  
+SOLAN OLERACEUM, Solanum Oleraceum\1052
+1052,1   ,1   ,4   ,4   
+SOLAN TUBEROSUM, Solanum Tuberosum, Potato Berries\1053
+1053,3   ,3   ,12  ,12  
+SOLAN VESICARIUM, Solanum Vesicarium\1054
+1054,1   ,1   ,4   ,4   
+SOLIDAGO VIRGA, Solidago Virga, Golden-Rod\1055
+1055,35  ,36  ,144 ,140 
+SPARTIUM SCOPARIUM, Spartium Scoparium - Cystisus Scoparius, Broom\1056
+1056,13  ,13  ,53  ,53  
+SHPINGURUS, Sphingurus\1057
+1057,3   ,3   ,12  ,12  
+SPIG, Spigelia, Pinkroot*\1058
+1058,60  ,89  ,360 ,242 
+SPIGELIA MARYLANDICA, Spigelia Marylandica\1059
+1059,6   ,6   ,23  ,23  
+SPIRAEA ULMARIA, Spiraea Ulmaria, Hardhack\1060
+1060,10  ,10  ,43  ,43  
+SPIRANTHES, Spiranthes, Lady's Tresses\1061
+1061,21  ,21  ,84  ,84  
+SPIRITUS, Spiritus Aetheris Compositus, Hoffman's Anodyne\1062
+1062,2   ,2   ,8   ,8   
+SPONG, Spongia Tosta, Roasted Marine Sponge*\1063
+1063,98  ,131 ,534 ,404 
+SQUILLA MARITIMA, Squilla Maritima, Sea-Onion\1064
+1064,27  ,28  ,108 ,108 
+STAN, Stannum, Tin*\1065
+1065,75  ,82  ,334 ,310 
+STANN IOD, Stannum Iod\1066
+1066,8   ,9   ,36  ,32  
+STAPH, Staphisagria, Stavesacre*\1067
+1067,122 ,122 ,543 ,543 
+STAPHYLOCCIN, Staphyloccin\1068
+1068,6   ,7   ,28  ,24  
+STELLARIA MEDIA, Stellaria Media, Chickweed\1069
+1069,31  ,32  ,130 ,126 
+STERCULIA, Sterculia, Kola-Nut\1070
+1070,6   ,6   ,28  ,28  
+STICTA, Sticta, Lungwort\1071
+1071,44  ,44  ,181 ,181 
+STIGMATA MAYDIS, Stigmata Maydis - Zea, Corn-Silk\1072
+1072,13  ,22  ,88  ,52  
+STILLINGIA, Stillingia, Queen's Root\1073
+1073,27  ,27  ,108 ,108 
+STIRRBINUM, Stirrbinum, Cancer Nosode\1074
+1074,4   ,4   ,16  ,16  
+STOVAIN, Stovain\1075
+1075,1   ,1   ,4   ,4   
+STRAMONIUM, Stramonium, Thorn-Apple\1076
+1076,67  ,67  ,293 ,293 
+STREPTOCCIN, Streptoccin\1077
+1077,1   ,1   ,4   ,4   
+STRONTIA, Strontia, Carbonate of Strontia\1078
+1078,50  ,50  ,206 ,206 
+STRONTIUM BROM, Strontium Bromide\1079
+1079,2   ,2   ,8   ,8   
+STRONTIUM NIT, Strintium Nitrate\1080
+1080,3   ,3   ,13  ,13  
+STROP, Strophanthus Hispidus, Onaye (Iree) or Kombe-Seed*\1081
+1081,47  ,48  ,191 ,187 
+STRYCH ARS, Strichnin Ars\1082
+1082,12  ,12  ,48  ,48  
+STRYCH ET FERR CIT, Strychnin Et Ferr. Cit.\1083
+1083,3   ,3   ,12  ,12  
+STRYCH NIT, Strychnin. Nit.\1084
+1084,1   ,1   ,5   ,5   
+STRYCH SULPH, Strychnin. Sulph.\1085
+1085,1   ,1   ,4   ,4   
+STRYCH VALERIN, Strychnin. Valerin.\1086
+1086,2   ,2   ,7   ,7   
+STRYCHNINUM, Strychninum, Alkaloid of Nux Vomica\1087
+1087,61  ,63  ,257 ,249 
+STRYCHNIA PHOSPHORICA, Strychnia Phosphorica, Phosphate of Strychnin\1088
+1088,24  ,30  ,125 ,101 
+SUCCINIC ACID, Succinic Acid\1089
+1089,6   ,6   ,24  ,24  
+SUCCINUM, Succinum, Electron. Amber - A Fossil Resin\1090
+1090,12  ,12  ,54  ,54  
+SULFONAL, Sulfonal, A Coal-Tar Product\1091
+1091,43  ,43  ,186 ,186 
+SUL, Sulphur, The Element Sulphur (Brimstone)*\1092
+1092,319 ,330 ,1373,1321
+SULPHUR HYDROGENISATUM, Sulphur Hydrogenisatum\1093
+1093,3   ,3   ,16  ,16  
+SULPHUR TEREBINTHINATUM, Sulphur Terebinthinatum\1094
+1094,2   ,2   ,8   ,8   
+SULPHUR IODATUM, Sulphur Iodatum, Iodide of Sulphur\1095
+1095,16  ,19  ,76  ,64  
+SULPHURICUM ACIDUM, Sulphuricum Acidum, Sulfuric Acid\1096
+1096,56  ,57  ,233 ,229 
+SUL-AC, Sulfurous Acid, Sulfurous Acid (H2SO3)*\1097
+1097,18  ,18  ,74  ,74  
+SUMBUL, Sumbul - Ferula Sumbul, Musk-Root\1098
+1098,30  ,30  ,125 ,125 
+SYMPHORICARPUS, Symphoricarpus Racemosa, Snowberry\1099
+1099,12  ,17  ,67  ,47  
+SYMPH, Symphytum Officinale, Comfrey - Knitbone*\1100
+1100,26  ,31  ,123 ,103 
+SYPHILINUM, Syphilinum, The Syphilitic Virus - A Nosode\1101
+1101,60  ,60  ,249 ,249 
+SYZYGIUM JAMBOLANUM, Syzygium Jambolanum, Jambol Seeds - Enlexing, active principle\1102
+1102,10  ,13  ,52  ,40  
+TAB, Tabacum, Tobacco*\1103
+1103,107 ,117 ,474 ,434 
+TAMUS, Tamus\1104
+1104,2   ,2   ,9   ,9   
+TANACETUM VULGARE, Tanacetum Vulgare, Tansy\1105
+1105,19  ,22  ,94  ,82  
+TANNIC ACID, Tannic Acid, Tannin - Digallic Acid\1106
+1106,11  ,11  ,44  ,44  
+TARANT, Tarantula, Tarantula*\1107
+1107,1   ,1   ,4   ,4   
+ TARANT CUBENSIS, Tarentula Cubensis, Cuban Spider\1108
+1108,31  ,34  ,136 ,124 
+TARENTULA HISPANIA, Tarantula Hispania, Spanish Spider\1109
+1109,47  ,55  ,248 ,216 
+TARAXACUM, Taraxacum, Dandelion\1110
+1110,29  ,30  ,116 ,116 
+TART, Tartaricum Acidum, Tartaric Acid*\1111
+1111,11  ,11  ,44  ,44  
+TAUROCHOLATE, Taurocholate of Soda\1112
+1112,5   ,5   ,20  ,20  
+TAXUS BACCATA, Taxus Baccata, Yew\1113
+1113,16  ,16  ,64  ,64  
+TELA ARANEA, Tela Aranea\1114
+1114,2   ,2   ,8   ,8   
+TELL, Tellurium, Tellurium (the metal)*\1115
+1115,46  ,57  ,224 ,188 
+TEREBENE, Terebene\1116
+1116,5   ,5   ,20  ,20  
+TEREBINTHINA, Terebinthina, Turpentine\1117
+1117,60  ,67  ,270 ,242 
+TETRADYMITE, Tetradymite\1118
+1118,7   ,7   ,28  ,28  
+TEUCRIUM MARUM, Teucrium Marum, Cat-Thyme\1119
+1119,38  ,45  ,185 ,157 
+TEUCRIUM SCORODONIA, Teucrium Scorodonia, Wood-Sage\1120
+1120,5   ,6   ,20  ,20  
+THALAS, Thalaspi Bursa Pastoris, Shepheard's Purse*\1121
+1121,3   ,3   ,12  ,12  
+THALLIUM, Thallium, The Metal Thallium\1122
+1122,19  ,19  ,76  ,76  
+THALLIUM PLECTRANTHUS, Thallium Plectranthus\1123
+1123,1   ,1   ,4   ,4   
+THASPIUM AUREUM, Thaspium Aureum - Zizia, Meadow Parsnip\1124
+1124,19  ,19  ,79  ,79  
+THEA, Thea, Tea\1125
+1125,30  ,30  ,130 ,130 
+THEBAINUM, Thebainum\1126
+1126,1   ,1   ,4   ,4   
+THERIDION, Theridion, Orange-Spider\1127
+1127,46  ,52  ,216 ,192 
+THIOSINAMINUM, Thiosinaminum - Rhodallin, a Chemical Derived from Oil of Mustard-Seed\1128
+1128,25  ,25  ,100 ,100 
+THLASPI BURSA PAST, Thlaspi Bursa Pastoris - Capsella, Shepherd's Purse\1129
+1129,34  ,38  ,145 ,134 
+THUJ, Thuja Occidentalis, White Cedar (Arbor Vitae, tree of life)*\1130
+1130,178 ,206 ,839 ,727 
+THYMOL, Thymol, Thyme Camphor\1131
+1131,21  ,23  ,94  ,86  
+THYMUS SERPYLLUM, Thymus Serpyllum, Wild Thyme\1132
+1132,7   ,7   ,28  ,28  
+THYROID, Thyroid Gland Extract\1133
+1133,3   ,3   ,12  ,12  
+THYROIDIN, Thyroidinum, Dried Thyroid Gland of the Sheep\1134
+1134,89  ,91  ,373 ,363 
+TILIA EUROPA, Tilia Europa, Linden\1135
+1135,25  ,25  ,101 ,101 
+TINOSPORA, Tinospora Cordifolia, a Hindu medicine\1136
+1136,1   ,1   ,4   ,4   
+TITANIUM, Titanium, The Metal Titanium\1137
+1137,10  ,10  ,40  ,40  
+TOLA, Tola Aranearum, Spider's Web\1138
+1138,12  ,12  ,50  ,50  
+TONGO, Tongo - Diptrix Odorata, Seeds of Courmarouna - a tree in Guiana\1139
+1139,8   ,8   ,32  ,32  
+TORULA Cer, Torula Cerevisiae, Saccharomyces - Yeast Plant\1140
+1140,21  ,21  ,86  ,86  
+TOXICOPHIS, Toxicophis, Moccasin Snake\1141
+1141,3   ,3   ,12  ,12  
+TRACHINUS, Trachinus, Stingfish\1142
+1142,4   ,4   ,16  ,16  
+TRADESCANTIA, Tradescantia\1143
+1143,4   ,4   ,16  ,16  
+TRIATEMA, Triatema, Kissing Bug\1144
+1144,2   ,2   ,8   ,8   
+TRIBULUS TERRESTRIS, Tribulus Terrestris, Ikshugandha\1145
+1145,8   ,9   ,38  ,34  
+TRIFOLIUM PRATENSE, Trifolium Pratense, Red Clover\1146
+1146,22  ,23  ,94  ,90  
+TRIFOLIUM REPENS, Trifolium Repens, White Clover\1147
+1147,5   ,5   ,20  ,20  
+TRILLIUM CERNUM, Trillium Cernum\1148
+1148,2   ,2   ,8   ,8   
+TRILLIUM PENDULUM, Trillium Pendulum, White Beth-Root\1149
+1149,33  ,33  ,132 ,132 
+TRINITR., Trinitrotoluene (T. N. T.), Trotyl\1150
+1150,53  ,53  ,213 ,213 
+TRIONAL, Trional\1151
+1151,11  ,11  ,45  ,45  
+TRIOSTEUM PERFOL, Triosteum Perfoliatum, Fever-Root\1152
+1152,18  ,21  ,74  ,74  
+TRITICUM, Triticum - Agropyron Repens, Couch-Grass\1153
+1153,15  ,19  ,76  ,60  
+TROMBIDIUM, Trombidium, Red Acarus of the Fly\1154
+1154,9   ,10  ,40  ,36  
+TROPAOLUM, Tropaolum, Garden Nasturtium\1155
+1155,1   ,1   ,4   ,4   
+TRYCHNOS, Trychnos Gaultheriana\1156
+1156,3   ,3   ,13  ,13  
+TRYCHOSANTHES, Trychosanthes\1157
+1157,3   ,3   ,12  ,12  
+TUB, Tuberculinum, Tubercle Bacillus*\1158
+1158,95  ,103 ,446 ,409 
+TURNERA, Turnera, Damiana\1159
+1159,9   ,9   ,38  ,38  
+TUSSILAGO FAR, Tussilago Farfara\1160
+1160,2   ,2   ,8   ,8   
+TUSSILAGO FRAG, Tussilago Fragrans\1161
+1161,3   ,3   ,12  ,12  
+TUSSILAGO, Tussilago Petasites, Butter-Burr\1162
+1162,6   ,6   ,24  ,24  
+TYPHA LATIFOLIA, Typha Latifolia, Cat-tail Flag\1163
+1163,3   ,3   ,11  ,11  
+ULMUS, Ulmus\1164
+1164,4   ,4   ,16  ,16  
+UPAS ANTIARIS, Upas Antiaris, Resinous Exudation of Antiarus Toxicaria\1165
+1165,4   ,4   ,16  ,16  
+UPAS, Upas Tiente, Upas-Tree - Strychnos Tiente\1166
+1166,20  ,20  ,84  ,84  
+URANIUM NITRICUM, Uranium Nitricum, Nitrate of Uranium\1167
+1167,35  ,37  ,150 ,142 
+UREA, Urea, Carbamide\1168
+1168,8   ,8   ,32  ,32  
+URIC ACID, Uric Acid\1169
+1169,4   ,4   ,16  ,16  
+URINUM, Urinum\1170
+1170,4   ,4   ,16  ,16  
+UROTROPIN, Urotropin\1171
+1171,1   ,1   ,4   ,4   
+URT-U, Urtica Urens, Stinging Nettle*\1172
+1172,68  ,70  ,276 ,268 
+USNEA BARBATA, Usnea Barbata, Tree-Moss\1173
+1173,4   ,4   ,16  ,16  
+USTL, Usilago Maidis, Corn-Smut*\1174
+1174,38  ,38  ,160 ,160 
+UVA URSI, Uva Ursi, Bearberry\1175
+1175,14  ,21  ,76  ,56  
+VACCININUM, Vaccininum, Nosode - From Vaccine Matter\1176
+1176,13  ,13  ,53  ,53  
+VACCINUM MYRTILLUS, Vaccinum Myrtillus, Huckleberries\1177
+1177,2   ,2   ,8   ,8   
+VALE, Valeriana, Valerian*\1178
+1178,45  ,45  ,195 ,195 
+VANADIUM, Vanadium, The Metal Vanadium\1179
+1179,20  ,20  ,82  ,82  
+VANILLA-PLAN, Vanilla-Planifolia, Vanilla\1180
+1180,4   ,5   ,22  ,18  
+VARIC, Variella, Chicken Pox Virus*\1181
+1181,1   ,1   ,4   ,4   
+VARIOLINUM, Variolinum, Lymph from Small-pox Pustule\1182
+1182,19  ,19  ,78  ,78  
+VERATRINA, Veratrina\1183
+1183,5   ,5   ,19  ,19  
+VERATRINE, Veratrine\1184
+1184,1   ,1   ,4   ,4   
+VERATRUM ALBUM, Veratrum Album, White Hellebore\1185
+1185,88  ,93  ,392 ,370 
+VERAT-A - VERATRUM VIR, Veratrum Album or Veratrum Viride, White Hellebore*\1186
+1186,103 ,104 ,428 ,424 
+VERBASCUM, Verbascum, Mullein\1187
+1187,34  ,34  ,138 ,138 
+VERBENA, Verbena, Blue Vervain\1188
+1188,9   ,9   ,40  ,40  
+VERONAL, Veronal\1189
+1189,4   ,4   ,16  ,16  
+VESICARIA, Vesicaria\1190
+1190,3   ,3   ,12  ,12  
+VESP or VESPA CRABRO, Vespa Vulgaris, The Wasp*\1191
+1191,25  ,35  ,136 ,100 
+VIBUR, Viburnum Opulus, High Cranberry Bush*\1192
+1192,37  ,48  ,178 ,146 
+VIBURNUM PRUN, Viburnum Prunifolium, Black Haw\1193
+1193,6   ,6   ,24  ,24  
+VINCA MINOR, Vinca Minor, Lesser Periwinkle\1194
+1194,28  ,30  ,120 ,112 
+VIOL, Viola Odorata, The Violet*\1195
+1195,43  ,50  ,201 ,172 
+VIOLA TRICOLOR, Viola Tricolor, Pansy\1196
+1196,18  ,20  ,82  ,74  
+VIPERA, Vipera, The German Viper\1197
+1197,21  ,21  ,84  ,84  
+VISCUM ALBUM, Viscum Album, Mistletoe\1198
+1198,55  ,58  ,234 ,222 
+VITEX, Vitex Trifolia, Indian Arnica\1199
+1199,5   ,5   ,20  ,20  
+VITRUM, Vitrum, Crown Glass\1200
+1200,2   ,2   ,8   ,8   
+WYETHIA, Wyethia, Poison Weed*\1201
+1201,38  ,48  ,194 ,154 
+XANTATE, Xantate\1202
+1202,5   ,5   ,22  ,22  
+XANTHIUM, Xanthium Spinosum, Cockle\1203
+1203,2   ,3   ,16  ,10  
+XANT-AP, Xanthorrbiza apifolia, Shrub Yellow Root\1204
+1204,4   ,4   ,16  ,16  
+XANT-A, Xanthorrhaa Arborea\1205
+1205,5   ,5   ,20  ,20  
+XANT, Xanthoxylum, Prickly Ash*\1206
+1206,48  ,62  ,256 ,204 
+XEROPHYLLUM, Xerophyllum, Tamalpais Lily, Basket Grass Flower\1207
+1207,53  ,62  ,251 ,215 
+X-RAY, X-Ray, X-ray (Vial Containing Alcohol Exposed to X-Ray)*\1208
+1208,34  ,36  ,149 ,141 
+YOHIMBINUM, Yohimbinum, Coryanthe Yohimbe\1209
+1209,14  ,14  ,56  ,56  
+ZEA ITALICA, Zea Italica\1210
+1210,7   ,9   ,40  ,32  
+ZINCUM ACETICUM, Zincum Aceticum\1211
+1211,3   ,3   ,14  ,14  
+ZINCUM ARS, Zincum Ars\1212
+1212,4   ,4   ,16  ,16  
+ZINCUM BROMATUM, Zincum Bromatum\1213
+1213,3   ,3   ,12  ,12  
+ZINCUM CARB, Zincum Carb\1214
+1214,3   ,3   ,12  ,12  
+ZINCUM CYANATUM, Zincum Cyanatum\1215
+1215,5   ,5   ,22  ,22  
+ZINCUM METALLICUM, Zincum Metallicum, Zinc\1216
+1216,138 ,145 ,557 ,553 
+ZINCUM MURIAT, Zincum Muriat\1217
+1217,4   ,4   ,18  ,18  
+ZINCUM OXYDATUM, Zincum Oxydatum\1218
+1218,12  ,12  ,48  ,48  
+ZINCUM PHOS, Zincum Phos\1219
+1219,8   ,8   ,34  ,34  
+ZINCUM PIC, Zincum Picricum\1220
+1220,7   ,7   ,30  ,30  
+ZINCUM SULPH, Zincum Sulph\1221
+1221,8   ,8   ,32  ,32  
+ZINCUM VALERIANUM, Zincum Valerianum, Valerinate of Zinc\1222
+1222,14  ,15  ,62  ,58  
+ZINGIBER, Zingiber, Ginger\1223
+1223,37  ,55  ,212 ,148 

@@ -1,0 +1,42 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1 or later
+Compiled file=Hahnasst.chm
+Contents file=Table of Contents.hhc
+Default topic=AboutCommand.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x409 English (United States)
+
+
+[FILES]
+AboutHomeopathy.htm
+DisplayRemediesForm.htm
+FileMenuCommands.htm
+FindAllForm.htm
+FindForm.htm
+FindingMoreInformation.htm
+GridSearchForm.htm
+HelpMenuCommands.htm
+InCaseOfDifficulty.htm
+ListsAndButtons.htm
+OptionsMenuCommands.htm
+OverviewAndQuickStartInstructions.htm
+PrescribeForm.htm
+Questionnaire.htm
+RepertoryStyleSymptomForms.htm
+TakingCases.htm
+Toolbar.htm
+WhatsNew.htm
+MainFormOptionalSettings.htm
+AboutCommand.htm
+
+[MAP]
+#include HahnasstHlp.h
+
+[TEXT POPUPS]
+HahnasstHlp.h
+HahnasstHlp.txt
+
+[INFOTYPES]
+

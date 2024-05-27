@@ -1,0 +1,101 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>Main Form Optional Settings</title>
+</head>
+
+<body>
+<h1>Main Form Optional Settings</h1>
+
+ 	<H2>Minimum Number Box</H2>
+<p><img alt="MinimumNumberBox" src="MinNumberBox.bmp" /></p>
+
+The “Minimum Number” box is located below the “Prescribe” button on the Main Form (See Figure 4).  The box allows you to select the numbers 1 through 6 by clicking on the “?” and selecting the desired number.  The selected number will then appear in the box.  These numbers are used to set the minimum number of symptoms for a remedy that you must have in your case before it will be considered in prescribing.  This is a way of limiting the number of remedies which will be suggested.  It is also a good way to show up lesser-known remedies which may have only two or three symptoms.  The Minimum Number is initially set to 1 when you first run Dr. Hahnemann’s Assistant.
+
+
+<p></p>
+
+<p>One way to point out lesser-known remedies would be to print out a prescribed remedy list with the Minimum Number set to 1, then to print it again with the number set to 3 or more; the list with the higher minimum number will tend to display only the Polychrest (multiple-symptom-type) remedies.
+ </p>
+
+<p></p>
+
+<p>Using a minimum number of 1 tends to favor the lesser-known, (non-Polychrest) remedies, and can be useful in cases where Polychrests have been tried but failed to produce a cure.
+ </p>
+
+<p></p>
+
+ 	<H2> 	Default Scheme (Prescribing Schemes section)</H2>
+<p><img alt="PrescribingSchemes" src="PrescribingSchemes.bmp" /></p>
+
+<p>You have the option to select one of three Prescribing Schemes via Radio Buttons; “Default”, “Equal Weight”, or “Straight Count”.  The Radio Button will appear dark next to the currently-selected scheme.  The “Default” prescribing scheme bases its prediction on the number of symptoms which correspond to each remedy as a weighted percentage of that remedy’s total number of symptoms.  For example, if a remedy has 8 “single weight” symptoms associated with it and you selected 4 of those symptoms in your case, its weighted percent would be 50  (100 * (4 / 8)).  Symptoms which appear with a single asterisk after them in the remedy display are weighted double (this means they count as two symptoms when figuring the percent).  Symptoms which appear with two asterisks after them are weighted by a factor of 4.
+ </p>
+
+<p></p>
+
+<p>The “Default” scheme is a good general remedy selection scheme, in that it takes into account the fact that some remedies may have many symptoms while others have few.  If used with “Minimum Numbers” higher than 1, it will tend to favor the Polychrests (remedies which have many different symptoms); these remedies tend to be more readily available due to their multiple uses.  It also takes into account key symptoms which are important indicators for a remedy, and is generally the best scheme to start with on new cases.</p>
+
+<p></p>
+
+<p>The weighting scheme used by “Default” should not be confused with the case weights you assign with the Weight Buttons (or which the program assigns if you are using the Automatically Assign Weight option).  These case weights are multiplied by the individual symptom percentages before adding them up for each remedy; for this reason, the “percentage” for a given remedy could well be greater than 100 if case weights greater than 1 are used (unless you have selected the Normalize option).  This is perfectly legitimate, as the “percentages” are meant as a relative guideline, and not as absolute numbers.</p>
+
+<p></p>
+
+<p>The “Default” scheme works as follows:  Certain symptoms are given greater weight in relation to other symptoms for a given remedy.  Symptoms which have a “*” after their name on the Symptom List are counted as 2 symptoms.  Other symptoms, noted by “**”, are considered determining factors in prescribing the remedy and count as 4 symptoms.  These “remedy weights” of either 1, 2, or 4 are then multiplied by your assigned “symptom weight” (1-6), to determine the final weight of the symptom.</p>
+
+<p></p>
+
+ 	<H2> 	Equal Weight Scheme (Prescribing Schemes section)</H2>
+
+<p>The “equal weight” prescribing scheme is identical to the Default scheme, except that it doesn’t use the weight factors contained in the remedy Symptom Lists (remedy weights).  The symptom weights which you assign with the Weight Buttons (or which the program assigns if you are using the Automatically Assign Weight option) are multiplied by the individual symptom percentage values.  These numbers are than added up for each remedy as in the Default scheme.  As with the Default option, it is possible for these numbers to add up to more than 100 if case weights greater than 1 are used (unless you have selected the “Normalize” option).</p>
+
+<p></p>
+
+	<H2> 	Straight Count Scheme (Prescribing Schemes section)</H2>
+
+<p>The Straight Count prescribing scheme uses a simple count of symptom “hits” per remedy when making selections.  However, the symptom weights you assign (or which the program assigns if you are using the Automatically Assign Weight option) are used when adding up the symptoms for each remedy.  This means that if you assign a case weight of 4 to a symptom, it will count as 4 “hits” for its remedy.  To avoid using any weighting factor, turn off the "Automatically Assign Weight" option and leave the symptom weights at a value of "1" (the value the program initially gives them when you select symptoms).</p>
+
+<p></p>
+
+	<H2>  	Normalize Option (Prescribing Schemes section)</H2>
+
+<p>The “Normalize” option can be set for any of the three prescribing schemes.  This option has different effects depending on which prescribing scheme is chosen.  The square box to the left of the word “Normalize” will appear dark if this option is chosen.</p>
+
+<p></p>
+
+<p>If the Default method is set, the number which appears before each remedy represents the ratio of the un-normalized number you would get, to the maximum weighted number possible for that remedy.  This maximum weighted number is the number you would get if you were to have all the symptoms for that remedy and were to rate them as your most important symptom.  The formula used for this maximum weighted number is as follows:   assign a strength of 1 to 3 to the symptom, with 1 being the weakest and 3 the strongest; to this number, add 1 for specific physical symptoms, add 2 for general symptoms, or add 3 for mind symptoms; next multiply this number by two for all symptoms followed by a single "*" and by four for those followed by "**".  The sum of these numbers for all symptoms for the remedy will give the maximum weighted number used in the normalization formula.</p>
+
+<p></p>
+
+<p>If the Equal Weight method is set, the number which appears before each remedy represents the ratio of the un-normalized number you would get, to the maximum weighted number possible for that remedy with the Equal Weight option.  This is similar to the method used for normalizing the Default option, with the difference that the maximum weighted number multiplies all symptom weights by one, including those symptoms followed by a single "*" or  "**".</p>
+
+<p></p>
+
+<p>If the Straight Count method is set, the number which appears before each remedy is calculated as follows:  multiply the number of symptoms chosen for each remedy (this is the number that would appear if the Normalize option were not used) by the number required to make the symptom count for the remedy with the highest number equal to 100.00.  In other words, if you had two remedies, and the straight counts were 2 and 5, the Normalized version would be 40.00 and 100.00 (100 / 5 = 20 so the multiplier is 20; 2 * 20 = 40).</p>
+
+<p></p>
+
+	<H2>  	Weight (Set Weight section)</H2>
+<p><img alt="SetWeight" src="SetWeight.bmp" /></p>
+
+<p>The “Weight” box in the “Set Weight” section allows you to manually choose a weight for your symptom(s)  (See Figure 6).  The box allows you to select the numbers 1 through 6 by clicking on the “?” and selecting the desired number.  A weight of “1” is the lowest (less-importance) weighted symptom, while a weight of “6” is the highest.  The selected number will then appear in the box.  To set symptom weights at the time the symptom(s) are being selected, set the desired weight in this box, then select one or more symptoms in the “Symptoms” list and click either the “Select” button to add one or more symptoms to the “Selected Symptoms” list or the “Must Use” button to add a single symptom it to that list.  Setting the weight at symptom selection time allows you to easily set the same weight for a group of symptoms.  The weight number will appear to the left of the symptom description in the “Selected Symptoms” list or “Must Use” box.</p>
+
+<p></p>
+
+<p>If you decide to change the weight of a symptom after it is selected, click on the symptom in either the “Selected Symptoms” list or “Must Use” box, then set the weight to the desired value in the “Weight” box.  Note that once symptoms are selected you can only change the weight for one symptom at a time.</p>
+
+<p></p>
+
+	<H2>  	Holistic Option (Set Weight section)</H2>
+
+<p>The “Holistic” option ("Automatically Assign Weight" in earlier versions of  Dr. Hahnemann's Assistant ) command is an aid to assigning weight to symptoms if you wish to use the common "holistic" model of symptom weighting.  This model begins by assigning a strength of 1 to 3 to the symptom, with 1 being the weakest and 3 the strongest.  To this number, add 1 for specific physical symptoms, add 2 for general symptoms, or add 3 for mind symptoms.  If this option is turned on, the "Auto-Weight Severity" dialog box will pop up every time you select a symptom (see Figure 7).  This box will display the symptom, with buttons below it which allow you to assign it a priority of High, Medium, or Low.  Dr. Hahnemann's Assistant ranks the symptom as being physical, general, or mind, and adds the priority of the button you selected to this number to determine the symptom weight.  Clicking the "High" button adds a 3, the "Medium" adds a 2, and the "Low" adds a 1.  If Dr. Hahnemann's Assistant is unable to determine the symptom type, the “Auto Weight Type” box will pop up; this is similar to the “Auto-Weight Severity box” and allows you to assign the symptom as “PHYSICAL”, “GENERAL”, or “MIND”.  When the symptom appears in the Select List or the Must Box, the calculated weight will appear in front of it.  If you decide to change this weight later on, you can select the symptom in the Select List or Must Box by clicking on it, then click on the desired weight button.  If you change your mind and decide not to select the symptom, click the "Cancel Symptom" button on the "Auto-Weight Severity" box to pop it down.</p>
+
+<p></p>
+
+<p>A check mark appears next to this item on the Main Form if it is currently selected.</p>
+
+<p></p>
+<p><img alt="AutoWeightSeverity" src="AutoWeightSeverity.bmp" /></p>
+</body>
+</html>

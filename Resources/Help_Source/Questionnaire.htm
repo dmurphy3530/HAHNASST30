@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+  <title>Questionnaire</title>
+</head>
+
+<body>
+<h1>Questionnaire</h1>
+
+<p>To facilitate entering and archiving cases, Dr. Hahnemann's Assistant provides a case "Questionnaire" which can be used to enter and track patient cases.  This questionnaire consists of 7 pages, which allow entry of most items commonly contained in a patient case history.  The first four pages contain specific symptom-related questions; this group of pages is used repeatedly for each symptom, for as many symptoms as necessary to describe the case.  The last three pages contain more general questions relating to the patient.  The data in the questionnaire may be saved to and read back from a file, so that the case may be archived and updated.  You also have the option to print the questionnaire case.  After the questionnaire is filled out, you can optionally have it generate a list of symptoms based on your answers, as a start on your Symptom List.</p>
+<p></p>
+<IMG SRC="QuestionnairePage1.<Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="patient data, entering">
+	<param name="Keyword" value="Questionnaire">
+</OBJECT>Questionnaire, click on the "Questionnaire" button below the "Symptoms" list.  The questionnaire will pop up, opened to the first page.  This page has boxes for you to enter the patient name, the current date, and the patient date of birth (they initially display the current date).  As you enter text, you can use the <TAB> key to move the cursor to the next field or <SHIFT><TAB> to move to the previous field; you can also move to a field by clicking in it.  There is no restriction on the text you enter in the boxes.  Some questions have check boxes that you click to give an answer.  You can only check one of these per question; if another check box for that question was already checked, the check will move to the box you clicked.  You are not required to answer all the questions, but the more you answer, the more complete your case will be.</p>
+<p></p>
+<IMG SRC="QuestionnairePage4.bmp"/>
+<p></p>
+<p><Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="questionnaire, navigating pages">
+</OBJECT>When you have completed a page, click on the "Continue" button at the bottom of the page to bring up the next one.  You can also click on the tab for the desired page (the title in the selected (light-background) tab indicates which page is displayed).  If the tab for the page you want is not displayed, click on the left or right arrow to the right of the tabs to scroll the tabs until the desired tab appears.   Continue filling out the forms for the symptom you specified on Page 1.  When you finish page 4, you have the option to add another symptom by clicking the "Add Symptom" button (see Figure 16).  This button will return you to page 1, but the page will be blank, so you can begin entering your next symptom; also, the "symptom #" to the left of the "Title" box will increment to the new symptom number.  When you finish entering your last symptom, click the "Continue" button on page 4; this will bring up page 5, which allows you to enter more general information such as patient likes and dislikes, attributes, etc.  When you are done with page 7, you may have Dr. Hahnemann's Assistant try to match your questionnaire answers to symptoms from its symptom database by clicking the "Find Symptoms" button on Page 7.    Note that if you have more than one patient symptom in your questionnaire, it will look for symptoms related to the currently-displayed patient symptom.</p>
+<p></p>
+<IMG SRC="QuestionnairePage7.bmp"/>
+<p></p>
+<p>The Find Symptoms Dialog will open.</p>
+<p></p>
+<IMG SRC="QuestionnaireFindSymptomsForm.bmp"/>
+<p><Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="questionnaire Find Symptoms dialog">
+	<param name="Keyword" value="questionnaire symptom search options">
+</OBJECT>dialog allows you to tailor how the symptom matching is performed.  Each questionnaire text box, and a pre-defined text description for each questionnaire check box is considered separately when looking for a symptom match.  This dialog allows you to select the treatment of the first word in the text when searching the symptom list (default is "Must contain first word or one of its synonyms").  You are also allowed to select the percentage of words in the text which must match words in the symptom (default is 75%).  If you find you are generating too many symptoms you may want to try again and select "Must contain an exact match of first word" and/or select a higher percentage of words which must match.  Conversely if you are generating too few symptoms or want your search to return more thorough results, try selecting "Doesn't need to contain first word" and/or select a lower percentage.  When you are done, click the "Start Symptom Search" button.  Note that this search could take several minutes, depending on your answers and the speed of your computer; a progress bar will display and a message will show the page and question # being processed.  When the search completes, the "Find All" list will pop up (see Figure 19), showing all symptoms that may provide a match to your questionnaire answers.  In front of each symptom description will be a group of numbers which indicate the first question used to pick the symptom.  The first number is the page, followed by a "/" and the symptom number for pages 1 - 4; or a blank for pages 5 - 7 because these are patient data, which is not associated with any particular symptom.  The next number is the question on the page, numbering consecutively from the top as question #1.  Following this is the symptom weight (based on your questionnaire input), then the description.   The text in front of the symptom description is for informational purposes only.  You will still need to select the weight using the normal method for symptoms you select.  You select symptoms and assign weights just like you do in the main form.  To view the portion of a symptom which extends past the right side of the list, click the symptom; the complete symptom will appear in the box above the Symptom List.  When you are done selecting symptoms, click the "Done" button below the list.</p>
+<p></p>
+<IMG SRC="QuestionnaireFindAllList.bmp"/>
+<p></p>
+<p><Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="questionnaire Find All symptom list">
+</OBJECT>Questionnaires are stored in files, similar to the manner in which cases are stored.  The default extension for questionnaire files is ".QUE".  To load and save questionnaire files, you can use the "File" menu at the top of the questionnaire form.  These options are identical to the Questionnaire File options available in the main form "File" menu.  To archive individual cases, you may want to use a descriptive file name such as the patient's name, followed by a number or date.  Then when you are ready to add to the case, you can open the latest ques<Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="Questionnaire File menu">
+	<param name="Keyword" value="Questionnaire Print">
+	<param name="Keyword" value="Questionnaire Print Preview">
+</OBJECT>"File" menu has "Print Preview" and "Print Questionnaire" options.  The "Print Questionnaire" option will print out a formatted report of the questionnaire, displaying the questions with your answers.  The "Print Preview" option shows a preview of the printout of the questionnaire; it works similar to the "Print Preview" on the main form "File" menu.  If you want to combine the Questionnaire printout with others such as the list of symptoms, use the File menu <a href="FileMenuCommands.htm"> "Print"</a> option in the main form.</p>
+<p></p>
+<p>The questionnaire pages contain buttons at the bottom of the page and tabs at the top which make it easy to navigate between questionnaire pages and symptoms.  Note that some buttons are not included on all pages, as they would not be appropriate.  The "Next" and "Prev." buttons on pages 1 - 4 allow you to go to the next and previous  symptom, respectively.  The "Continue" button will take you to the next page.  Use the "Cancel" button to pop-down the questionnaire; if you have any unsaved changes, Dr. Hahnemann's Assistant will ask if you want to save them.</p>
+<p></p>
+<p>If you plan to use the questionnaire to generate an initial list of symptoms, you will want to tailor the syntax of your answers to optimize the symptom selection process.  To match up symptoms, significant words from each answer are used to produce a list of synonyms.  There is also options to require that the symptom contain the first word (or optionally its synonyms) from your answers; if you plan to use these options, you should phrase your answers so they begin with the area affected (for example "eyes"), similar to the way the symptom list items are phrased.  Accuracy will also be improved if you stick to words commonly found in the Materia Medica (and therefore in the Symptom List).</p>
+<p></p>
+<p><Object type="application/x-oleobject" classid="clsid:1e2a7bd0-dab9-11d0-b93a-00c04fc99f9e">
+	<param name="Keyword" value="keyboard shortcuts in questionnaire">
+</OBJECT>In addition to the shortcuts mentioned in this manual, Windows shortcuts are available as an aid to filling out the questionnaire.  If you need to copy a phrase to another box, first select it, then type CTRL+C to copy it to the clipboard; next click on the box you want to copy to (the cursor appears in the box), then click CTRL+V to paste the clipboard into that box.  Another useful shortcut is ALT+TAB to quickly switch back to the main form to view symptoms, etc.; then type ALT+TAB again to return to the questionnaire (be careful to type TAB only once, otherwise it will cycle through other forms and windows you may have open).</p>
+<p></p>
+</body>
+</html>

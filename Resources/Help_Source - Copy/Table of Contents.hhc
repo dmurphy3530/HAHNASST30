@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="How To ...">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="About Homeopathy">
+			<param name="Local" value="AboutHomeopathy.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Taking Cases">
+			<param name="Local" value="TakingCases.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Overview and Quick Start Instructions">
+			<param name="Local" value="OverviewAndQuickStartInstructions.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Finding More Information (bibliography)">
+			<param name="Local" value="FindingMoreInformation.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Commands">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="File Menu">
+			<param name="Local" value="FileMenuCommands.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Options Menu">
+			<param name="Local" value="OptionsMenuCommands.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Help Menu">
+			<param name="Local" value="HelpMenuCommands.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Lists and Buttons">
+			<param name="Local" value="ListsAndButtons.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Toolbar">
+			<param name="Local" value="Toolbar.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Select Remedies Form">
+			<param name="Local" value="SelectRemediesForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Main Form Optional Settings">
+			<param name="Local" value="MainFormOptionalSettings.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Find Form">
+			<param name="Local" value="FindForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="The “Show Similar Symptoms” button">
+			<param name="Local" value="ShowSimilarSymptoms.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="FindAll Form">
+			<param name="Local" value="FindAllForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Grid-Search Form">
+			<param name="Local" value="GridSearchForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Repertory-Style Symptom Forms">
+			<param name="Local" value="RepertoryStyleSymptomForms.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Display Remedies Form">
+			<param name="Local" value="DisplayRemediesForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Prescribe Form">
+			<param name="Local" value="PrescribeForm.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Questionnaire">
+			<param name="Local" value="Questionnaire.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="What's New">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="What's New With Version 2.0">
+			<param name="Local" value="WhatsNew.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="In Case Of Difficulty">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Solutions to Common Problems">
+			<param name="Local" value="InCaseOfDifficulty.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

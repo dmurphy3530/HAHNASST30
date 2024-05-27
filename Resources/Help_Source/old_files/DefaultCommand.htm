@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+  <title>Default command (Options menu)</title>
+</head>
+
+<body>
+<h1>Default command (Options menu)</h1>
+This prescribing scheme bases its prediction on the number of symptoms which
+correspond to each remedy as a weighted percentage of that remedys total number
+of symptoms. For example, if a remedy has 8 single weight symptoms associated
+with it and you selected 4 of those symptoms in your case, its weighted percent
+would be 50 (100 * (4 / 8)). Symptoms which appear with a single asterisk after
+them in the remedy display are weighted double (this means they count as two
+symptoms when figuring the percent). Symptoms which appear with two asterisks
+after them are weighted by a factor of 4. 
+
+<p></p>
+
+<p>The Default scheme is a good general remedy selection scheme, in that it
+takes into account the fact that some remedies may have many symptoms while
+others have few. If used with Minimum Numbers higher than 1, it will tend to
+favor the Polychrests (remedies which have many different symptoms); these
+remedies tend to be more readily available due to their multiple uses. It also
+takes into account key symptoms which are important indicators for a remedy,
+and is generally the best scheme to start with on new cases. </p>
+
+<p></p>
+
+<p>The weighting scheme used by Default should not be confused with the case
+weights you assign with the <a href="TheWeightButtons.htm">Weight Buttons</a>
+(or which the program assigns if you are using the <a
+href="AutomaticallyAssignWeightCommand.htm">Automatically Assign Weight</a>
+option). These case weights are multiplied by the individual symptom
+percentages before adding them up for each remedy; for this reason, the
+percentage for a given remedy could well be greater than 100 if case weights
+greater than 1 are used (unless you have selected the <a
+href="NormalizeCommand.htm">Normalize</a> option). This is perfectly
+legitimate, as the percentages are meant as a relative guideline, and not as
+absolute numbers. </p>
+
+<p></p>
+
+<p>The Default scheme works as follows: Certain symptoms are given greater
+weight in relation to other symptoms for a given remedy. Symptoms which have a
+* after their name on the Symptom List are counted as 2 symptoms. Other
+symptoms, noted by **, are considered determining factors in prescribing the
+remedy and count as 4 symptoms. These remedy weights of either 1, 2, or 4 are
+then multiplied by your assigned <a href="TheWeightButtons.htm">symptom
+weight</a> (1-6), to determine the final weight of the symptom. </p>
+
+<p></p>
+
+<p>A check mark appears next to this item in the menu if it is currently
+selected. </p>
+
+<p></p>
+
+<p><b>Shortcuts</b> </p>
+
+<p></p>
+
+<p>Toolbar:<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mo>	</mo>
+</math><img alt="Default command" src="image10.bmp" /></p>
+</body>
+</html>
